@@ -1,0 +1,28 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Park Bohee
+baseurl:        ""
+url:            "https://park-bohee.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Bohee Park
+  url:          https://park-bohee.github.io
+  email:        parkbohee0705@gmail.com
+  github:       park-bohee
+  twitter:
+
+# Custom vars
+version:        1.0.0
+github:
+  repo:         https://github.com/park-bohee/park-bohee.github.io
