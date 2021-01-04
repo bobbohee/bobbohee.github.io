@@ -9,7 +9,21 @@
             </p>
         </div>
         <ul>
-            {% include project-list.html %}
+            {% for work in site.data.career.work %}
+            <li class="workplace transition">
+                <p class="workplace-name">
+                    {{ work.name }}
+                </p>
+                <div class="work-info">
+                    <p>
+                        {{ work.role }}
+                    </p>
+                    <p class="work-sub-info">
+                        {{ work.date }}
+                    </p>
+                </div>
+            </li>
+            {% endfor %}
         </ul>
         <!-- <a href="{{ site.baseurl | append: '/project' }}" class="transition">-->
         <!--     <div class="view-all-projects transition">-->

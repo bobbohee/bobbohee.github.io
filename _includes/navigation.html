@@ -1,0 +1,14 @@
+{% assign current = page.url | downcase | split: '/' %}
+
+<nav class="nav">
+    <div class="nav-container">
+        <ul>
+            <li class="transition">
+                <a href="{{ '' | prepend: site.baseurl }}/" {% if current[1]== "post" %} class="normal" {% endif %} class="active">Home</a>
+            </li>
+            <li class="transition">
+                <a href="{{ '/post' | prepend: site.baseurl }}" {% if current[1]== "post" %} class="active"{% endif %} >Post</a>
+            </li>
+        </ul>
+    </div>
+</nav>
