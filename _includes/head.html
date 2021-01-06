@@ -2,7 +2,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>{{ page.title }}</title>
+    {% if page.title %}
+        {% capture title %}{{ page.title }} | {{ site.title }}{% endcapture %}
+    {% else %}
+        {% assign title = site.title %}
+    {% endif %}
+
+    <title>{{ title }}</title>
 
     <!-- Post info -->
     <meta property="og:site_name" content="{{ site.title }}">
@@ -13,12 +19,12 @@
     <meta name="twitter:card" content="summary_large_image">
 
     <!-- title -->
-    <meta property="og:title" content="{% if page.url == '/' %}{{ page.subtitle }}{% else %}{{ page.title }}{% endif %}">
-    <meta name="twitter:title" content="{% if page.url == '/' %}{{ page.subtitle }}{% else %}{{ page.title }}{% endif %}">
+    <meta property="og:title" content="{{ title }}">
+    <meta name="twitter:title" content="{{ title }}">
 
     <!-- description -->
-    <meta property="og:description" content="{% if page.layout == 'home' %}{{ page.description }}{% else %}{{ page.content | truncatewords: 30 | strip_html }}{% endif %}"/>
-    <meta name="twitter:description" content="{% if page.layout == 'home' %}{{ page.description }}{% else %}{{ page.content | truncatewords: 30 | strip_html }}{% endif %}">
+    <meta property="og:description" content="{% if page.layout == 'post' %}{{ page.content | truncatewords: 30 | strip_html }}{% else %}{{ site.description }}{% endif %}"/>
+    <meta name="twitter:description" content="{% if page.layout == 'post' %}{{ page.content | truncatewords: 30 | strip_html }}{% else %}{{ site.description }}{% endif %}">
 
     <!-- CSS -->
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/styles.css">

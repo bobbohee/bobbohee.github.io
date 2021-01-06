@@ -2,18 +2,18 @@
 layout: default
 ---
 
-{% if page.title or page.description %}
+{% if page.banner-title or page.banner-description %}
 <div class="project-header loading-animation">
     <div class="container">
         <div>
-            {% if page.title %}
+            {% if page.banner-title %}
             <div class="header-project-title">
-                {{ page.title }}
+                {{ page.banner-title }}
             </div>
             {% endif %}
-            {% if page.description %}
+            {% if page.banner-description %}
             <div class="header-project-des">
-                {{ page.description }}
+                {{ page.banner-description }}
             </div>
             {% endif %}
         </div>
