@@ -3,7 +3,7 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          박보희 개발코
-description:    ✏️ 아주 가끔씩 개발 관련 글을 올려요.
+description:    아주 가끔씩 개발 분야의 글을 올려요. ✏️
 baseurl:        ""
 url:            "https://park-bohee.github.io"
 
