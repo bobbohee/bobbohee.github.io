@@ -1,30 +1,35 @@
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:       /:year-:month-:day/:title
 
 # Setup
-title:          박보희 개발코
-description:    아주 가끔씩 개발 분야의 글을 올려요. ✏️
-baseurl:        ""
-url:            "https://park-bohee.github.io"
+title:           박보희 개발코
+description:     아주 가끔씩 개발 분야의 글을 올려요. ✏️
+baseurl:         ""
+url:             "https://park-bohee.github.io"
 
 # Assets
 sass:
-  sass_dir:     _sass
-  style:        :compressed
+  sass_dir:      _sass
+  style:         :compressed
 
 # Build settings
-markdown:       kramdown
+markdown:        kramdown
 
 # About
 author:
-  name:         Bohee Park
-  url:          https://park-bohee.github.io
-  email:        parkbohee0705@gmail.com
-  github:       park-bohee
-  instagram:    bobbohee.dev
+  name:          Bohee Park
+  url:           https://park-bohee.github.io
+  email:         parkbohee0705@gmail.com
+  github:        park-bohee
+  instagram:     bobbohee.dev
   twitter:
 
 # Custom vars
-version:        1.0.0
+version:         1.0.0
 github:
-  repo:         https://github.com/park-bohee/park-bohee.github.io
+  repo:          https://github.com/park-bohee/park-bohee.github.io
+
+# Google Analytics
+google:
+  analytics:
+    tracking_id: G-6ZJZNLSB8E
