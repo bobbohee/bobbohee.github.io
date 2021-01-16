@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if page.banner %}
+<div class="post-header loading-animation"
+     style="background-image: url('{{ page.banner }}')">
+</div>
+{% endif%}
+
 <main>
     <div class="post">
         <div class="post-info">

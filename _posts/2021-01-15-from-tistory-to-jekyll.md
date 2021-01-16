@@ -21,7 +21,7 @@ date: 2021-01-15 14:42:00 +0900
 
 ### 블로그 서비스 제공
 
-![](https://cvws.icloud-content.com/B/AaQY0j9AV2pWhGz7_Po9x_vOllIFAelJNnPLmeMl1bLT9czsblkuQ9hO/01.+%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC+%ED%86%B5%EA%B3%84+%EB%B6%84%EC%84%9D.png?o=Aq-V2fXet0P7UfpVEMXuOO_EClaMuPiW6PoXypoFsZVz&v=1&x=3&a=CAogY0HPZ_GJjEECYlTGjYI4PBjjxXwRpplmFeosiTU-cfQSbxDaqICs8C4Y-p-3rPAuIgEAUgTOllIFWgQuQ9hOaidW_XrkA7D9kwEVd7Bh55Pu1ftrfuBdGrFwMCmdhv1kV9YUfsA8yopyJ6fpIQCMX3rOjgFaQGNTNi2gmgtstTvVhiOz3kSEnq_IDq4hvIoJcA&e=1610705915&fl=&r=c7cdad86-00c5-47ca-86a3-dd7358357db5-1&k=bwbSilNlK70SOOkHZ2ougQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=-bclaEAEY9xp4QL3MtzmmTBP0Q8&cd=i)
+![티스토리 통계 분석](/assets/images/2021-01-15-from-titstory-to-jekyll/01.%20티스토리%20통계%20분석.png)
 
 <figcaption>방문자 수를 매일 확인할 만큼 티스토리에 통계ㆍ분석 기능을 좋아했다.</figcaption>
 
@@ -30,7 +30,7 @@ date: 2021-01-15 14:42:00 +0900
 
 ### 다양한 플러그인 제공
 
-![](https://cvws.icloud-content.com/B/Af-7x5xOMoMywGA02IoZ9Nhy91coAWYAzbWRe1ejdaME3t8PlwNHBBir/02.+%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC+%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8.png?o=AuzXK20mTxGRCx8_q5-FrO6Ap04Yd-NBYs_U3vrtBx4m&v=1&x=3&a=CAoglGg8rKOLHmjM3jn54KtabGclR2qLl9BJiO-EYmGDEXISbxDd5Oay8C4Y_duds_AuIgEAUgRy91coWgRHBBiraida3xOadk4kR2x--kPmK-yuvOoCkVCEr2C1SovCCMugLo0TTMlGgilyJ-cjSc_lrVEyUhXTEUMIGPT28Vl9GGuF0ZaRB5cVm1RDcKRjaKMk_w&e=1610720177&fl=&r=bceee0c7-67bb-4a3c-b817-8508e862b6ce-1&k=erLH2Cd8xjbe35ja8gfVZQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=b2pN-oxZK76Y-x7ztG10JesdJ7s&cd=i)
+![티스토리 플러그인](/assets/images/2021-01-15-from-titstory-to-jekyll/02.%20티스토리%20플러그인.png)
 
 기본으로 제공하는 기능 외에 다양한 플러그인을 제공한다. 
 
@@ -42,7 +42,7 @@ date: 2021-01-15 14:42:00 +0900
 
 ### 커스터마이징이 어려움
 
-![](https://cvws.icloud-content.com/B/ASXlNQphZKXoS8Ffm3P_qnuwQdYyAfYULjQxBG7aU9UPjS62UGTQViaT/03.+%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC+%EC%BD%94%EB%93%9C+%ED%8E%B8%EC%A7%91.png?o=At1ayeBne62LG-zFveR4Cje2KMPKnvYWgD0FxU_3PsIT&v=1&x=3&a=CAog-5nQC-ci8Ay6CdK-8pO249EZjEWPKNHU8gggHzT1hOYSbxDl5Oay8C4Yhdyds_AuIgEAUgSwQdYyWgTQViaTaifqsEHbXjrbhRvzp35-lnw76L7ULRbdpusNwwfkSNpKUdj0CuGOEulyJ7NpU8LB0MolDfgAeR_urEVye14iioObtOSd1ywdYhozI0O1hO_2mw&e=1610720177&fl=&r=bceee0c7-67bb-4a3c-b817-8508e862b6ce-1&k=K1NYkfaJEQEzq7NsyM2Ilg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=LiUxENqGwxksxFgKLYsYipqKF0k&cd=i)
+![티스토리 코드 편집](/assets/images/2021-01-15-from-titstory-to-jekyll/03.%20티스토리%20코드%20편집.png)
 
 티스토리에서 제공하는 스킨은 코드 편집을 통해 수정할 수 있다. 
 나는 스킨에서 강조하는 색상을 노란색으로 변경해서 사용했는데 수정하는 데 오랜 시간이 걸렸다. 
@@ -58,9 +58,13 @@ date: 2021-01-15 14:42:00 +0900
 ## 부제목
 ```
 
+코드 편집에서 특정 라이브러리를 추가하면 티스토리에서 마크다운 문법을 사용할 수 있다.
+
+👉 [티스토리에서 마크다운 문법 사용하기](https://redthing.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95%EC%9C%BC%EB%A1%9C-%ED%8F%AC%EC%8A%A4%ED%8C%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
 ### 코드 블럭 오류
 
-![](https://cvws.icloud-content.com/B/AduLov9l20jzwUzYUB2JMDOoNIbFAYW-X5jUSeV2NOrcwTOwE0Zaw9a3/04.+%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC+%EC%BD%94%EB%93%9C+%EB%B8%94%EB%9F%AD.png?o=AoT3NIOpgS1Lzpy6K4P-Ljkbpjc0E-gJG6y2qiR4nnzH&v=1&x=3&a=CAogOx4cvD7b1ITR4nkV97Jma6Jlso9-6sQJkq4BMNhPtj0SbxCuvuar8C4YzrWdrPAuIgEAUgSoNIbFWgRaw9a3aicXsV2her8rxEuoyXnejV0Yc1fbE-DNLAwIr-3Lqc8VREN1zzf5mIhyJ_a2uKcAwggX08Gx8OPoJ6QX-uY3WzYoCsK9TcAkY8l5saKFME3R6Q&e=1610705492&fl=&r=fdb241e7-4c14-4a7c-9530-c54bf04b90b0-1&k=LCFWnyGap-TDTIhLAYGsag&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=asWktW1D6HrjtnV7Jdw3BC0MsbM&cd=i)
+![티스토리 코드 블럭](/assets/images/2021-01-15-from-titstory-to-jekyll/04.%20티스토리%20코드%20블럭.png)
 
 한 글에서 HTML과 JS 코드 블럭을 같이 사용한다고 했을 때 1번째 코드 블럭 언어를 HTML로 설정하고, 2번째 코드 블럭 언어를 JS로 설정하면, 1번째 설정한 코드 블럭에 언어가 HTML에서 JS로 변경된다.
 간단히 말해 마지막에 설정한 코드 블럭에 언어로 모든 코드 블럭에 언어가 적용된다.
@@ -83,11 +87,11 @@ date: 2021-01-15 14:42:00 +0900
 지킬에는 다양한 스킨이 있다. 만약 마음에 드는 스킨이 없어도 직접 커스터마이징해서 사용하면 된다. 
 퍼블리싱을 해봤다면, 쉽게 코드에서 커스터마이징을 할 수 있다.
 
-[Jekyll Themes](http://jekyllthemes.org/)
+👉 [Jekyll Themes](http://jekyllthemes.org/)
 
 ### 마크다운 문법 지원 (with 노션)
 
-![](https://cvws.icloud-content.com/B/AYaEHaVUvo7-mCHJd3L49Jo93ltWAZxZZ7Xp9BZfSD2g9MqDKvBcwLIp/05.+Markdown+%EB%AC%B8%EB%B2%95.png?o=AhHW0cXsevozvkItXdAyqic3lZwMxXd8DFXFPUqzx2P8&v=1&x=3&a=CAog-wpomyBwn3HkvfwBMBEzpfvCxNdNfy95FdFX8UMcaasSbxCf_Oqr8C4Yv_OhrPAuIgEAUgQ93ltWWgRcwLIpaicGPvrRXBlVCR2ihQL9dj1JKGMzSOhOoZfINQ_z7THT0uURp271c19yJ4be19vsh2rngL6sXp_vOuzhrR5em_yOjn9CMKscJwyDBRyq4mkf1w&e=1610705566&fl=&r=91549f94-fe43-4ee0-a526-94fab31d2c48-1&k=iArFeFDfbH4WVhpwJQmq1A&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=Pd_P-oIGG0C243r7KAAzGtrho_I&cd=i)
+![Markdown 문법](/assets/images/2021-01-15-from-titstory-to-jekyll/05.%20Markdown%20문법.png)
 
 나는 평소에 공부한 내용 정리를 노션으로 하고 있는데 노션에 정리한 내용을 복사 + 붙여넣기 하면 마크다운 문법으로 붙여넣기 된다. 
 
@@ -104,9 +108,9 @@ date: 2021-01-15 14:42:00 +0900
 
 ### 용량 관리 (옵션)
 
-![](https://cvws.icloud-content.com/B/AWuAQavgZShWTt8ztv1M6DsUdMxjASxXUZzUl7xz2tlwW1-jxArLlIOy/06.+iCloud+Drive.png?o=Aubs61-MWgUJGWwrMocJBA-OXRuNG7EVzr1XdfH2LoQg&v=1&x=3&a=CAogcntrKHxNEn3HIKiqNgUGF8JswwzkBv9UUuHH_lGyDIYSbxCrpeqr8C4Yy5yhrPAuIgEAUgQUdMxjWgTLlIOyaiemeLIInuw0Qmawgt9Fu6g5xBabVUhiGCf4ObaKFt0yFXMzTCp_toRyJ-NrE0vENgsX6rzkg4NyETuhoUJl2PCORNrXBZX8QyuiWIp-Rv8b6w&e=1610705555&fl=&r=2a3760a4-8c12-44b7-b95c-453ffc1d8e5f-1&k=i5WE7Covj2yAgNjS0II00w&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=52&s=jMO1kazeN6wg8SmcYym8t0d0o7I&cd=i)
+![iCloud Drive](/assets/images/2021-01-15-from-titstory-to-jekyll/06.%20iCloud%20Drive.png)
 
-<figcaption>iCloud Drive를 사용해 이미지를 호스팅하는데 굉장히 귀찮다.</figcaption>
+<figcaption>임시로 iCloud Drive에서 이미지를 가져오는데 굉장히 번거롭다.</figcaption>
 
 지킬은 github를 기반으로 운영되는데 github는 1개의 레포지토리당 `5GB 미만`, 계정당 총 레포지토리 `75GB 미만`을 권장한다.
 또한, 1개의 파일은 `100MB`를 넘기면 안 된다. 글을 올리기 전에 이미지 사이즈가 너무 크지 않은지 확인해야 한다.
@@ -114,5 +118,4 @@ date: 2021-01-15 14:42:00 +0900
 
 # 마치며, 🙇🏻
 
-내가 지킬로 정착할지, 아님 또 다른 블로그 서비스를 찾아 나설지 모르지만 지금은 지킬 블로그가 굉장히 마음에 든다.
-
+지킬 블로그로 정착할지, 아님 다른 블로그 서비스를 찾아 나설지 모르지만 지금은 지킬 블로그가 굉장히 마음에 든다.
