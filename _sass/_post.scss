@@ -8,7 +8,15 @@
     width: 100%;
     min-height: 360px;
     background-color: $grey-2;
-    
+
+    &.top {
+        background-position: top center;
+    }
+
+    &.bottom {
+        background-position: bottom center;
+    }
+
     @media (max-width: $break-small) {
         min-height: 200px;
     }
