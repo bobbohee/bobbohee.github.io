@@ -21,9 +21,12 @@
             <p class="catalogue-sub">
                 {{ page.subtitle }}
             </p>
-            <p class="catalogue-body">
-                {{ page.content | truncatewords: 24 | strip_html }}
-            </p>
+
+            {% if page.draft == true %}
+            <p class="catalogue-body">현재 열심히 글을 쓰고 있어요. 조금만 기다려주세요!</p>
+            {% else %}
+            <p class="catalogue-body">{{ page.content | truncatewords: 24 | strip_html }}</p>
+            {% endif %}
         </div>
     </a>
 </li>    

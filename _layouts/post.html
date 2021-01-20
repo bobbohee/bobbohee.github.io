@@ -43,5 +43,7 @@ layout: default
         {% endif %}
     </div>
 
-    {% include share.html %}
+    {% if page.draft != true %}
+        {% include share.html %}
+    {% endif %}
 </main>
