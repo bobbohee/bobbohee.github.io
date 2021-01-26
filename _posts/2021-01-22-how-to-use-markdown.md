@@ -4,6 +4,7 @@ categories: Development
 title: '마크다운(Markdown) 문법 정리'
 subtitle: '마크다운을 사용해 블로그 글 작성하기 ✏️'
 date: 2021-01-17 08:46:00 +0900
+banner: '/assets/images/2021-01-22-how-to-use-markdown/banner.jpeg'
 ---
 
 많은 분들이 이용하는 티스토리나 네이버 블로그 같은 경우, 위지위그(WYSIWYG)[^1] 에디터로 글을 작성하고, 개발자들 분들이 많이 이용하는 지킬 블로그나 벨로그 같은 경우, 마크다운(Markdown)으로 글을 작성한다.
