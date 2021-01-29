@@ -4,9 +4,9 @@
 
     <!-- title -->
     {% if page.title %}
-        {% assign title = page.title %}
+        {% capture title %}{{ page.title }} | {{ site.title }}{% endcapture %}
     {% else %}
-        {% assign title = site.title %}
+        {% assign title = page.title %}
     {% endif %}
 
     <!-- description -->
@@ -22,7 +22,7 @@
     {% elsif page.banner %}
         {% capture image %}{{ site.url }}{{ page.banner }}{% endcapture %}
     {% else %}
-        {% capture image %} {{ site.url }}{{ '/assets/images/thumbnail.jpeg' }}{% endcapture %}
+        {% capture image %}{{ site.url }}{{ '/assets/images/thumbnail.jpeg' }}{% endcapture %}
     {% endif %}
 
     <title>{{ title }}</title>

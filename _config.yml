@@ -2,7 +2,7 @@
 permalink:       /:year-:month-:day/:title
 
 # Setup
-title:           박보희 개발코
+title:           bobbohee
 description:     아주 가끔씩 개발 분야의 글을 올려요. ✏️
 baseurl:         ""
 url:             "https://park-bohee.github.io"
@@ -21,7 +21,7 @@ author:
   url:           https://park-bohee.github.io
   email:         parkbohee0705@gmail.com
   github:        park-bohee
-  instagram:     bobbohee.dev
+  instagram:     bobbohee
   twitter:
 
 # Custom vars
