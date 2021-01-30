@@ -3,7 +3,7 @@ permalink:       /:year-:month-:day/:title
 
 # Setup
 title:           bobbohee
-description:     아주 가끔씩 개발 분야의 글을 올려요. ✏️
+description:     가끔씩 개발 분야의 글을 올려요. ✏️
 baseurl:         ""
 url:             "https://park-bohee.github.io"
 
