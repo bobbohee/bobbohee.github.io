@@ -72,13 +72,13 @@ UTC는 Universal Time Code이나 Universal Time Coordination의 약어라고 하
 
 한국 표준시에 대한 흥미로운 글인데 블로그에 담지는 않았다. 읽어보기를 추천한다.
 
-👉 [한국 표준시에 대한 흥미로운 이야기](https://velog.io/@hiro2474/%ED%95%9C%EA%B5%AD%ED%91%9C%EC%A4%80%EC%8B%9C%EC%97%90-%EB%8C%80%ED%95%9C-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+👉 [한국 표준시에 대한 흥미로운 이야기](https://velog.io/@hiro2474/%ED%95%9C%EA%B5%AD%ED%91%9C%EC%A4%80%EC%8B%9C%EC%97%90-%EB%8C%80%ED%95%9C-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EC%95%BC%EA%B8%B0){:target="_blank"}
 
 ## 참고한 사이트
 
-[https://www.a-ha.io/questions/456012fa3017cb17bb371c43928fc875](https://www.a-ha.io/questions/456012fa3017cb17bb371c43928fc875)
+[https://www.a-ha.io/questions/456012fa3017cb17bb371c43928fc875](https://www.a-ha.io/questions/456012fa3017cb17bb371c43928fc875){:target="_blank"}
 
-[https://perfectacle.github.io/2018/09/26/date-and-time](https://perfectacle.github.io/2018/09/26/date-and-time)
+[https://perfectacle.github.io/2018/09/26/date-and-time](https://perfectacle.github.io/2018/09/26/date-and-time){:target="_blank"}
 
 [^1]: 영국 런던 그리니치 천문대를 기점으로 하기 때문에 그리니치 천문대에 경도는 0.00이다.
 [^2]: 국제원자시(프랑스어: TAI, Temps Atomique International)는 시각에 대한 국제 표준이다.

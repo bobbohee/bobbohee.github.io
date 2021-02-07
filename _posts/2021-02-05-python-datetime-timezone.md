@@ -9,7 +9,7 @@ banner: '/assets/images/2021-02-05-python-datetime-timezone/banner.jpeg'
 
 이 글은 협정세계시(UTC)와 그리니치 평균시(GMT), 시간대(Timezone)에 대한 이해가 필요하기 때문에 아래 글을 먼저 읽어보기를 추천한다.
 
-👉 [협정세계시(UTC)와 그리니치 평균시(GMT) + 서머타임(Summer Time)](https://park-bohee.github.io/2021-01-29/utc-and-gmt)
+👉 [협정세계시(UTC)와 그리니치 평균시(GMT) + 서머타임(Summer Time)](https://park-bohee.github.io/2021-01-29/utc-and-gmt){:target="_blank"}
 
 # datetime 모듈
 
@@ -118,12 +118,12 @@ utc.localize(naive).astimezone(KST)
 
 아래 블로그가 이번 글 작성에 많은 도움이 되었다. 더 많은 내용을 담고 있기 때문에 꼭 읽어보기를 추천한다.
 
-👉 [스포카 기술 블로그 : 파이썬의 시간대에 대해 알아보기(datetime.timezone)](https://spoqa.github.io/2019/02/15/python-timezone.html)
+👉 [스포카 기술 블로그 : 파이썬의 시간대에 대해 알아보기(datetime.timezone)](https://spoqa.github.io/2019/02/15/python-timezone.html){:target="_blank"}
 
 ## 참고한 사이트
 
-[https://docs.python.org/ko/3.7/library/datetime.html](https://docs.python.org/ko/3.7/library/datetime.html)
+[https://docs.python.org/ko/3.7/library/datetime.html](https://docs.python.org/ko/3.7/library/datetime.html){:target="_blank"}
 
-[https://spoqa.github.io/2019/02/15/python-timezone.html](https://spoqa.github.io/2019/02/15/python-timezone.html)
+[https://spoqa.github.io/2019/02/15/python-timezone.html](https://spoqa.github.io/2019/02/15/python-timezone.html){:target="_blank"}
 
-[https://www.44bits.io/ko/post/python-datatime-cheetsheet](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
+[https://www.44bits.io/ko/post/python-datatime-cheetsheet](https://www.44bits.io/ko/post/python-datatime-cheetsheet){:target="_blank"}

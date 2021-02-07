@@ -312,7 +312,7 @@ const say_hello = () => {
 
 <br>
 
-👉 [마크다운 표 쉽게 만들기](https://www.tablesgenerator.com/markdown_tables)
+👉 [마크다운 표 쉽게 만들기](https://www.tablesgenerator.com/markdown_tables){:target="_blank"}
 
 # 마치며, 🙇🏻
 
@@ -320,8 +320,8 @@ const say_hello = () => {
 
 ## 참고한 사이트
 
-[https://eungbean.github.io/2018/06/11/How-to-use-markdown/](https://eungbean.github.io/2018/06/11/How-to-use-markdown/)
+[https://eungbean.github.io/2018/06/11/How-to-use-markdown](https://eungbean.github.io/2018/06/11/How-to-use-markdown){:target="_blank"}
 
-[https://heropy.blog/2017/09/30/markdown/](https://heropy.blog/2017/09/30/markdown/)
+[https://heropy.blog/2017/09/30/markdown](https://heropy.blog/2017/09/30/markdown){:target="_blank"}
 
 [^1]: What You See Is What You Get 의 약자로, 해석하면 "보이는 대로 얻는다"는 의미를 가지고 있다. 간말히 말해, 보이는 대로 표현이 되는 에디터이다.

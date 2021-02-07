@@ -1,5 +1,6 @@
 <li class="catalogue-item">
-    <a href="{{ page.url | prepend: site.baseurl }}" >
+    <!-- [고민] 리스트에서 글 선택 시, 새 창으로 열려야 할까 ? -->
+    <a href="{{ page.url | prepend: site.baseurl }}" target="_blank">
 
         {% if page.thumbnail %}
         <img src="{{ page.thumbnail }}" class="catalogue-img"/>

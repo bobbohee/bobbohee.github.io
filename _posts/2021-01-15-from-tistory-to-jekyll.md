@@ -62,7 +62,7 @@ banner-pos: top
 
 코드 편집에서 특정 라이브러리를 추가하면 티스토리에서 마크다운 문법을 사용할 수 있다.
 
-👉 [티스토리에서 마크다운 문법 사용하기](https://redthing.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95%EC%9C%BC%EB%A1%9C-%ED%8F%AC%EC%8A%A4%ED%8C%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+👉 [티스토리에서 마크다운 문법 사용하기](https://redthing.tistory.com/entry/%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95%EC%9C%BC%EB%A1%9C-%ED%8F%AC%EC%8A%A4%ED%8C%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95){:target="_blank"}
 
 ### 코드 블럭 오류
 
@@ -89,7 +89,7 @@ banner-pos: top
 지킬에는 다양한 스킨이 있다. 만약 마음에 드는 스킨이 없어도 직접 커스터마이징해서 사용하면 된다. 
 퍼블리싱을 해봤다면, 쉽게 코드에서 커스터마이징을 할 수 있다.
 
-👉 [Jekyll Themes](http://jekyllthemes.org/)
+👉 [Jekyll Themes](http://jekyllthemes.org/){:target="_blank"}
 
 ### 마크다운 문법 지원 (with 노션)
 
