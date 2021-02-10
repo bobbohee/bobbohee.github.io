@@ -4,7 +4,7 @@ categories: Development
 title: '협정세계시(UTC)와 그리니치 평균시(GMT) + 서머타임(Summer Time)'
 subtitle: '시간에 대한 흥미로운 이야기들️ 😲'
 date: 2021-01-29 10:22:00 +0900
-banner: '/assets/images/2021-01-29-utc-and-gmt/banner.jpeg'
+banner: '/assets/images/2021-01-29-what-is-utc-and-gmt/banner.jpeg'
 ---
 
 원래 파이썬의 `datetime`에 대해 글을 작성하려고 했는데, datetime은 UTC와 시간대에 대한 이해가 필요해서 먼저 블로그에 정리하면 좋을 것 같다는 생각이 들었다.
@@ -15,7 +15,7 @@ UTC와 시간대에 대해 검색하다보니 기본적인 개념 외에 흥미�
 
 그리니치 평균시(GMT, Greenwich Mean Time)는 영국 런던 그리니치 천문대를 기점[^1]으로 하는 협정 세계시이다.
 
-![그리니치 천문대](/assets/images/2021-01-29-utc-and-gmt/01.%20그리니치%20천문대.png)
+![그리니치 천문대](/assets/images/2021-01-29-what-is-utc-and-gmt/01.%20그리니치%20천문대.png)
 
 GMT는 조금씩 늦어지는 지구 자전의 영향을 받기 때문에 새로 협정 세계시(UTC)가 재정되어, 1925년부터 1972년까지 사용했다.
 
@@ -26,7 +26,7 @@ GMT는 조금씩 늦어지는 지구 자전의 영향을 받기 때문에 새로
 
 UCT와 GMT는 초의 소숫점 단위에서만 차이가 나기 떄문에 혼용되어 사용되기도 하지만, 기술적인 표기에서는 UTC가 사용된다.
 
-![협정세계시 지도](/assets/images/2021-01-29-utc-and-gmt/02.%20협정세계시%20지도.png)
+![협정세계시 지도](/assets/images/2021-01-29-what-is-utc-and-gmt/02.%20협정세계시%20지도.png)
 
 ## UTC 약자의 유래
 
@@ -54,7 +54,7 @@ UTC는 Universal Time Code이나 Universal Time Coordination의 약어라고 하
 
 미국은 대지4개)와 미국령(5개), 미사용 영토(2개)를 포함해 총 11개의 시간대를 사용하고 있다. 3월 ~ 11월에는 서머타임을 적용해 기존 시간대보다 1시간 빠른 시간대를 사용한다.
 
-![미국 시간대](/assets/images/2021-01-29-utc-and-gmt/03.%20미국%20시간대.png)
+![미국 시간대](/assets/images/2021-01-29-what-is-utc-and-gmt/03.%20미국%20시간대.png)
 
 <figcaption>구글에 '미국 시간'을 검색했을 때 나오는 결과</figcaption>
 
