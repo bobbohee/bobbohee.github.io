@@ -132,6 +132,8 @@ querySelector와 jQuery를 비교해보면 jQuery가 느리다. 그럼 jQuery는
 
 ![jQuery 시장 점유율](/assets/images/2021-02-12-getelementbyid-versus-queryselector/02.%20jQuery%20시장%20점유율.png)
 
+👉 [직접 jQuery 시장 점유율 확인해보기](https://w3techs.com/technologies/history_overview/javascript_library/all/y){:target="_blank"}
+
 # 마치며, 🙇🏻
 
 id 요소로 element 객체를 찾을 경우에는 getElementById를 사용하고, 그 외 경우에는 querySelector를 사용하자.
