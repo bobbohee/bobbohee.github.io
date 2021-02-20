@@ -3,7 +3,6 @@ layout: post
 categories: Development
 title: '마크다운(Markdown) 문법 정리'
 subtitle: '마크다운을 사용해 블로그 글 작성하기 ✏️'
-date: 2021-01-22 08:46:00 +0900
 banner: '/assets/images/2021-01-22-how-to-use-markdown/banner.jpeg'
 ---
 

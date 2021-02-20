@@ -3,7 +3,6 @@ layout: post
 categories: Development 
 title: '티스토리(Tistory)와 지킬(Jekyll), 어느 것을 사용할까?'
 subtitle: '티스토리에서 지킬로 블로그를 이전한 이유 👟'
-date: 2021-01-15 14:42:00 +0900
 banner: '/assets/images/2021-01-15-from-tistory-to-jekyll/banner.jpeg'
 banner-position: top
 ---

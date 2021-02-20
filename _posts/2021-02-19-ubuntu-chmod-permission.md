@@ -3,7 +3,6 @@ layout: post
 categories: Ubuntu 
 title: '우분투 chmod로 파일 권한(Permission) 변경하기'
 subtitle: '암호 같은 권한 -rwxr-xr-x 알아보기 🔍'
-date: 2021-02-19 14:43:00 +0900
 ---
 
 터미널에서 `ls -la` 명령어로 파일 목록을 확인하면서, `-rwxr-xr-x` 문자들을 보고 어려운 암호 같아 그냥 넘겼었다.

@@ -3,7 +3,6 @@ layout: post
 categories: Javascript 
 title: 'getElementById와 querySelector, 어느 것을 사용할까?'
 subtitle: 'querySelector는 사용하면 안 되는 걸까? 💁'
-date: 2021-02-11 18:20:00 +0900
 banner: '/assets/images/2021-02-12-getelementbyid-versus-queryselector/banner.jpeg'
 banner-position: top
 ---
