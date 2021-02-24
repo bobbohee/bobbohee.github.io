@@ -6,6 +6,18 @@
         <img src="{{ page.thumbnail }}" class="catalogue-img"/>
         {% endif %}
 
+        <!-- 업로드 후, 지난 날짜 계산. 일주일 이내에 포스트 라면 New 태그 등록 -->
+        {% assign uploadTime = page.date | date : '%s' %}
+        {% assign nowTime = site.time | date : '%s' %}
+        {% assign pastSecond = nowTime | minus: uploadTime %}
+        {% assign pastDay = pastSecond | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+
+        {% if pastDay <= 8 %}
+        <span class="catalogue-tag">
+            New
+        </span>
+        {% endif %}
+
         {% if page.draft == true %}
         <span class="catalogue-tag">
             Coming Soon
