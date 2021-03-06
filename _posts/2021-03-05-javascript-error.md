@@ -3,6 +3,7 @@ layout: post
 categories: Javascript
 title: '자바스크립트 커스텀 에러(Error) 만들기'
 subtitle: '자바스크립트 예외 처리 - 2편 🚨'
+banner: '/assets/images/2021-03-05-javascript-error/banner.jpeg'
 ---
 
 # 에러(Error)
