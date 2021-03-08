@@ -2,9 +2,11 @@
 layout: post
 categories: Javascript 
 title: '자바스크립트 예외(Exception) 처리하기'
-subtitle: 'try...catch 문으로 예외를 캐치해보자 🙌'
+subtitle: '자바스크립트 예외 처리하기 - 1편 🚨'
 banner: '/assets/images/2021-02-28-javascript-exception-handling/banner.jpeg'
 ---
+
+[2편 - ‘자바스크립트 커스텀 에러(Error) 만들기’](/2021-03-05/javascript-error){:target="_blank"}
 
 # 예외 처리(Exception Handing)란?
 

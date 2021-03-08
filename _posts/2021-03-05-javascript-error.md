@@ -2,11 +2,13 @@
 layout: post
 categories: Javascript
 title: '자바스크립트 커스텀 에러(Error) 만들기'
-subtitle: '자바스크립트 예외 처리 - 2편 🚨'
+subtitle: '자바스크립트 예외 처리하기 - 2편 🚨'
 banner: '/assets/images/2021-03-05-javascript-error/banner.jpeg'
 ---
 
-# 에러(Error)
+[1편 - ‘자바스크립트 예외(Exception) 처리하기’](/2021-02-28/javascript-exception-handling){:target="_blank"}
+
+# 에러(Error) 객체
 
 ```javascript
 new Error(message, fileName, lineNumber)
@@ -37,11 +39,11 @@ new Error('에러 생성!') // 2: 객체로 호출
 
 # 커스텀 에러(Error)
 
-
-
 👉 [커스텀 에러를 만드는 좋은 방법](https://stackoverflow.com/questions/1382107/whats-a-good-way-to-extend-error-in-javascript){:target="_blank"}
 
 ## ES6 이전
+
+ES6 이전 문법은 기존 Error에 prototype을 수정하거나 확장해 커스텀 에러를 만들 수 있다.
 
 ```javascript
 function CustomError(message) {
@@ -54,6 +56,9 @@ CustomError.prototype.name = 'CustomError';
 ```
 
 ## ES6 이후
+
+ES6 문법부터 `클래스(Class)` 문법을 지원하기 때문에 더 간결해진 코드를 작성할 수 있다.
+기존 Error를 상속받아 수정하거나 확장해 커스텀 에러를 만들 수 있다.
 
 ```javascript
 class CustomError extends Error {
@@ -76,4 +81,4 @@ class CustomError extends Error {
 
 [https://stackoverflow.com/questions/1382107/whats-a-good-way-to-extend-error-in-javascript](https://stackoverflow.com/questions/1382107/whats-a-good-way-to-extend-error-in-javascript){:target="_blank"}
 
-[https://imkh.dev/js-error/](https://imkh.dev/js-error/){:target="_blank"}
+[https://imkh.dev/js-error](https://imkh.dev/js-error/){:target="_blank"}
