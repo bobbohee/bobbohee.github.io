@@ -12,7 +12,9 @@
         {% assign pastSecond = nowTime | minus: uploadTime %}
         {% assign pastDay = pastSecond | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
 
-        {% if pastDay <= 8 %}
+        {{ pastDay }}
+
+        {% if pastDay < 7 %}
         <span class="catalogue-tag">
             New
         </span>
