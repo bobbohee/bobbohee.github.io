@@ -12,17 +12,14 @@
         {% assign pastSecond = nowTime | minus: uploadTime %}
         {% assign pastDay = pastSecond | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
 
-        {{ pastDay }}
-
-        {% if pastDay < 7 %}
-        <span class="catalogue-tag">
-            New
-        </span>
-        {% endif %}
-
+        <!-- draft 상태일 떄는 New 태그 추가 안함 -->
         {% if page.draft == true %}
         <span class="catalogue-tag">
             Coming Soon
+        </span>
+        {% elsif pastDay < 7 %}
+        <span class="catalogue-tag">
+            New
         </span>
         {% endif %}
 
