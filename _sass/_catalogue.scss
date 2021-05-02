@@ -85,10 +85,15 @@
     
 }
 
-.catalogue-item:hover
-.catalogue-info {     
-    cursor: pointer;
-    opacity: .6;
+.catalogue-item:hover {
+    a {
+        text-decoration: none;
+    }
+
+    .catalogue-info {
+        cursor: pointer;
+        opacity: .6;
+    }
 }
 
 .catalogue-img {
