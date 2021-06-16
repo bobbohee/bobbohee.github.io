@@ -18,16 +18,16 @@ markdown:        kramdown
 # About
 author:
   name:          Park Bohee
-  url:           https://park-bohee.github.io
+  url:           https://bobbohee.github.io
   email:         bohee.at@gmail.com
-  github:        park-bohee
+  github:        bobbohee
   instagram:     bobbohee
   twitter:
 
 # Custom vars
 version:         1.0.0
 github:
-  repo:          https://github.com/park-bohee/park-bohee.github.io
+  repo:          https://github.com/bobbohee/bobbohee.github.io
 
 # Google Analytics
 google:
@@ -38,3 +38,8 @@ google:
 jennifer:
   analytics:
     tracking_id: 370bd56b
+
+# Naver
+naver:
+  search:
+    tracking_id: 5da5c4aff0bbac7f7ab43f6211bd796a03afe4c8
