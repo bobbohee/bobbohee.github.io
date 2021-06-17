@@ -51,6 +51,11 @@
     <!-- Font -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
 
+    <!-- Syntax Highlight -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/lib/highlight.js-11.0.1/google-light.min.css">
+    <script src="{{ site.baseurl }}/assets/lib/highlight.js-11.0.1/highlight.min.js"></script>
+    <script>hljs.highlightAll();</script>
+
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}/assets/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/favicon/favicon-32x32.png">
@@ -60,7 +65,7 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <meta name="naver-site-verification" content="{{ site.naver.search.tracking_id }}" />
+    <meta name="naver-site-verification" content="{{ site.naver.search.tracking_id }}"/>
 
     <!-- Start Google Analytics - Global Site Tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google.analytics.tracking_id }}"></script>
