@@ -1,3 +1,7 @@
+.hljs {
+  color: #969896 !important;
+}
+
 pre,
 code {
   font-family: $monospaced-font;
@@ -16,21 +20,25 @@ pre {
 }
 
 pre code {
-  background-color: #f6f9fc !important;
+  background-color: #fbfbfb !important;
   color: inherit;
   font-size: 85%;
   padding: 0;
+}
+
+pre code.hljs {
+  padding: 0 !important;
 }
 
 div.highlight {
   margin: 0 0 1rem;
 
   pre.highlight {
-    background-color: $grey-3;
-    border: 1px solid $grey-2-70;
+    background-color: #fbfbfb;
+    border: 1px solid #ececec;
     border-radius: 3px;
     line-height: 1.4;
-    padding: 1rem;
+    padding: 1.2rem;
     overflow-x: auto;
   }
 
