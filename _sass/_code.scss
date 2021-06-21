@@ -1,7 +1,3 @@
-.hljs {
-  color: #969896 !important;
-}
-
 pre,
 code {
   font-family: $monospaced-font;
@@ -20,7 +16,7 @@ pre {
 }
 
 pre code {
-  background-color: #fbfbfb !important;
+  background-color: #fbfbfb;
   color: inherit;
   font-size: 85%;
   padding: 0;
