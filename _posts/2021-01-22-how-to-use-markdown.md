@@ -166,24 +166,24 @@ __bold__
 #### 인라인 링크
 
 ```markdown
- My github id is [park-bohee](https://github.com/park-bohee).
+ My github id is [bobbohee](https://github.com/bobbohee).
 ```
 
-My github id is [park-bohee](https://github.com/park-bohee).
+My github id is [bobbohee](https://github.com/bobbohee).
 
 #### 참조 링크
 
 ```markdown
-[park-bohee][github_me]
+[bobbohee][github_me]
 
 내용
 
-[github_me]:https://github.com/park-bohee 
+[github_me]:https://github.com/bobbohee 
 ```
 
-[park-bohee][github_me]
+[bobbohee][github_me]
 
-[github_me]:https://github.com/park-bohee
+[github_me]:https://github.com/bobbohee
 
 #### URL 링크
 

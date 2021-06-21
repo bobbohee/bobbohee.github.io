@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://park-bohee.github.io/sitemap.xml
+Sitemap: https://bobbohee.github.io/sitemap.xml

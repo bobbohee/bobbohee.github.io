@@ -5,7 +5,7 @@ permalink:       /:year-:month-:day/:title
 title:           bobbohee
 description:     주로 개발 분야의 글을 올려요. ✏️
 baseurl:         ''
-url:             'https://park-bohee.github.io'
+url:             'https://bobbohee.github.io'
 
 # Assets
 sass:
