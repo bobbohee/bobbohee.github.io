@@ -1,10 +1,3 @@
-//initialize
-
-p, h2 {
-    margin: 0;
-}
-
-// color 정의
 $default-shade: #10171f;
 $default-tint: #8898aa;
 $grey-0: #333e4c;
@@ -21,29 +14,29 @@ $yellow: #FEE85A;
 $shadow-color: rgba(0, 0, 0, .2);
 $ridi-blue: #1f8ce6;
 $ridi-skyblue: #66baff;
-$purple: #fcba40;
-$light-purple: #fcc04f;
+$primary: #fcba40;
+$light-primary: #fcc04f;
 
-// media
 $break-medium: 900px;
 $break-small: 670px;
 
-// font-family 정의
 $san-serif: "Source Sans Pro", "APPLE SD Gothic Neo", HelveticaNeue, Helvetica, "NanumGothic", "맑은 고딕", "Malgun Gothic", arial, sans-serif;
-$serif: "Nanum Myeongjo",sans-serif;
+$serif: "Nanum Myeongjo", sans-serif;
 $source: 'Source Sans Pro', sans-serif;
 
 $monospaced-font: Menlo, Monaco, monospace;
 $code-color: #bf616a;
 
+p, h2 {margin: 0}
+
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
-     -moz-box-sizing: $type;
-          box-sizing: $type;
+  -moz-box-sizing: $type;
+  box-sizing: $type;
 }
 
 @mixin transition($args...) {
   -webkit-transition: $args;
-     -moz-transition: $args;
-          transition: $args;
+  -moz-transition: $args;
+  transition: $args;
 }

@@ -3,8 +3,7 @@
   line-height: 1.5;
 }
 
-html,
-body {
+html, body {
   color: $grey-0;
   margin: 0;
   padding: 0;
@@ -23,23 +22,18 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    line-height: normal;
-    margin: 0;
+h1, h2, h3, h4, h5, h6 {
+  line-height: normal;
+  margin: 0;
 }
 
 h2 {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 a {
   color: $grey-0;
-    text-decoration: none;
+  text-decoration: none;
 }
 
 blockquote {
@@ -68,21 +62,23 @@ td {
 }
 
 .transition {
-    transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 ::selection {
-    background: $purple;
-    color: #FFF;
-    text-shadow: none;
+  background: $primary;
+  color: #FFF;
+  text-shadow: none;
 }
+
 ::-moz-selection {
-    background: $purple;
-    color: #FFF;
-    text-shadow: none;
+  background: $primary;
+  color: #FFF;
+  text-shadow: none;
 }
+
 ::-webkit-selection {
-    background: $purple;
-    color: #FFF;
-    text-shadow: none;
+  background: $primary;
+  color: #FFF;
+  text-shadow: none;
 }
