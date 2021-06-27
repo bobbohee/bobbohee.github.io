@@ -22,9 +22,9 @@ new Error(message, fileName, lineNumber)
 
 <br>
 
-⚠️ *fileName과 lineNumber는 모든 브라우저에서 지원하지는 않는다.*
+⚠️&nbsp; *fileName과 lineNumber는 모든 브라우저에서 지원하지는 않는다.*
 
-👉 [fileName과 lineNumber 브라우저 호환성 살펴보기](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Error#%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80_%ED%98%B8%ED%99%98%EC%84%B1)
+👉&nbsp; [fileName과 lineNumber 브라우저 호환성 살펴보기](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Error#%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80_%ED%98%B8%ED%99%98%EC%84%B1)
 
 ## 에러(Error) 객체 생성
 
@@ -39,11 +39,11 @@ new Error('에러 생성!') // 2: 객체로 호출
 
 # 커스텀 에러(Error)
 
-👉 [커스텀 에러를 만드는 좋은 방법](https://stackoverflow.com/questions/1382107/whats-a-good-way-to-extend-error-in-javascript){:target="_blank"}
+👉&nbsp; [커스텀 에러를 만드는 좋은 방법](https://stackoverflow.com/questions/1382107/whats-a-good-way-to-extend-error-in-javascript){:target="_blank"}
 
 ## ES6 이전
 
-ES6 이전 문법은 기존 Error에 prototype을 수정하거나 확장해 커스텀 에러를 만들 수 있다.
+ES6 이전 문법은 기존 Error에 `prototype`을 수정하거나 확장해 커스텀 에러를 만들 수 있다.
 
 ```javascript
 function CustomError(message) {

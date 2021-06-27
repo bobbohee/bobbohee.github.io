@@ -15,7 +15,7 @@ banner: '/assets/images/2021-02-28-javascript-exception-handling/banner.jpeg'
 
 <br>
 
-**여기서 잠깐! ✋** 에러(Error)와 예외(Exception)의 차이는 무엇일까?
+**여기서 잠깐! ✋&nbsp;** 에러(Error)와 예외(Exception)의 차이는 무엇일까?
 
 프로그래밍 언어의 문법적인 오류를 에러(Error)라고 하고, 프로그램 실행 중에 발생하는 오류를 예외(Exception)라고 한다.
 
@@ -31,7 +31,7 @@ throw expression;
 
 <br>
 
-⭐️ expression(표현식)은 Error 객체가 아니어도 된다.
+⭐️&nbsp; expression(표현식)은 Error 객체가 아니어도 된다.
 
 ```javascript
 throw 500;              
@@ -41,6 +41,8 @@ throw new Error('500');
 Error 객체를 사용하면 예외를 해결하기 위해 필요한 정보를 얻을 수 있어, Error 객체를 사용하는 것이 좋다.
 
 ![throw 표현](/assets/images/2021-02-28-javascript-exception-handling/01.%20throw%20표현.png)
+
+<br>
 
 예시 코드와 같이 강제로 예외를 발생시키고 싶은 경우, `throw`문을 사용한다.
 
@@ -100,7 +102,7 @@ try {
 
 # 마치며, 🙇🏻
 
-매 주 금요일에 글을 업로드 하기로 다짐했는데 이번주는 일요일에 글을 업로드했다 ... 😓 게으른 나 ...
+매 주 금요일에 글을 업로드 하기로 다짐했는데 이번주는 일요일에 글을 업로드했다 ... 😓&nbsp; 게으른 나 ...
 
 ## 참고한 사이트
 

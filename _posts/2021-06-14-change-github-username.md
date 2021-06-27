@@ -37,7 +37,7 @@ banner: '/assets/images/2021-06-14-change-github-username/banner.jpeg'
 
 <br>
 
-⚠️ username을 변경할 때 알아야 할 주의사항
+⚠️&nbsp; username을 변경할 때 알아야 할 주의사항
 
 - 이전 프로필 페이지에 접근할 수 없습니다.
 - 이전 Github Pages 사이트에 접근할 수 없습니다.
@@ -48,7 +48,7 @@ banner: '/assets/images/2021-06-14-change-github-username/banner.jpeg'
 
 변경할 username 입력하고, `Change my username` 버튼을 클릭하면 username이 변경된다.
 
-⚠️ 이미 다른 누군가가 사용하고 있는 username이라면, 사용이 불가하다는 메세지가 나타난다. 
+⚠️&nbsp; 이미 다른 누군가가 사용하고 있는 username이라면, 사용이 불가하다는 메세지가 나타난다. 
 
 ![username 변경](/assets/images/2021-06-14-change-github-username/04.%20username%20변경.png)
 

@@ -75,7 +75,7 @@ banner: '/assets/images/2021-04-04-review-apple-magic-trackpad2/banner.jpeg'
 
 Apple 공식 홈페이지에 매직 트랙패드2에 대한 개요를 보면 아래와 같이 적혀있다. 
 
-*한 번 충전으로 최대 한 달 넘게 사용할 수 있죠.*
+> *한 번 충전으로 최대 한 달 넘게 사용할 수 있죠.*
 
 <br>
 

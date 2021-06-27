@@ -8,13 +8,13 @@ banner: '/assets/images/2021-06-06-how-to-install-odoo-13-version-on-mac/banner.
 
 ###### 이 글을 읽기 전!
 
-⚠️ MacOS를 기준으로 작성된 글입니다.
+⚠️&nbsp; MacOS를 기준으로 작성된 글입니다.
 
 <br>
 
 회사에서 Odoo를 사용해 개발을 하게 되면서 처음 Odoo를 접하게 되었다.
 Odoo는 사용자가 그리 많지 않기 떄문에 딱 맞는 설치 가이드를 찾기 어렵다. 
-때문에 나 또한 처음 설치 과정에서 많은 어려움을 겪었고, 🥲 &nbsp; 블로그에 정리해 놓으면 좋겠다는 생각이 들어 정리하게 되었다. 
+때문에 나 또한 처음 설치 과정에서 많은 어려움을 겪었고, 🥲&nbsp; 블로그에 정리해 놓으면 좋겠다는 생각이 들어 정리하게 되었다. 
 
 # 홈브루(Homebrew)
 
@@ -23,13 +23,13 @@ Odoo는 사용자가 그리 많지 않기 떄문에 딱 맞는 설치 가이드�
 
 <br>
 
-👉 [MacOS에서 홈브루(Homebrew) 설치하기](https://www.44bits.io/ko/keyword/homebrew#%EB%A7%A5os%EC%97%90%EC%84%9C-%ED%99%88%EB%B8%8C%EB%A5%98homebrew-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0){:target="_blank"}
+👉&nbsp; [MacOS에서 홈브루(Homebrew) 설치하기](https://www.44bits.io/ko/keyword/homebrew#%EB%A7%A5os%EC%97%90%EC%84%9C-%ED%99%88%EB%B8%8C%EB%A5%98homebrew-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0){:target="_blank"}
 
 ## postgresql 설치
 
 Odoo에서는 데이터베이스로 PostgreSQL을 사용한다.
 
-⚠️ 필요에 따라 다른 버전을 사용해도 되지만, 10 버전 이후 버전을 사용해야 한다. 
+⚠️&nbsp; 필요에 따라 다른 버전을 사용해도 되지만, 10 버전 이후 버전을 사용해야 한다. 
 
 ```bash
 $ brew install postgresql@11
@@ -37,7 +37,7 @@ $ brew install postgresql@11
 
 <br>
 
-👉 [홈브루에 다른 postgresql 버전 보기](https://formulae.brew.sh/formula/postgresql){:target="_blank"}
+👉&nbsp; [홈브루에 다른 postgresql 버전 보기](https://formulae.brew.sh/formula/postgresql){:target="_blank"}
 
 ## pyenv 설치
 
@@ -118,7 +118,7 @@ $ pip install -r requirements.txt
 
 <br>
 
-🚨 설치 도중 `Pillow` 패키지에서 오류가 난다면 pip 버전을 업그레이드한 후에 다시 진행한다.
+🚨&nbsp; 설치 도중 `Pillow` 패키지에서 오류가 난다면 pip 버전을 업그레이드한 후에 다시 진행한다.
 
 ```bash
 $ pip install --upgrade pip
@@ -209,7 +209,7 @@ $ python ./odoo-bin --config=./config/.odoorc
 
 <br>
 
-🚨 실행 시 아래와 같이 오류가 나타난다면 `psycopg2-binary` 패키지를 설치한 후에 다시 진행한다.
+🚨&nbsp; 실행 시 아래와 같이 오류가 나타난다면 `psycopg2-binary` 패키지를 설치한 후에 다시 진행한다.
 
 ```bash
 /Users/parkbohee/.pyenv/versions/odoo-13-venv/lib/python3.7/site-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
@@ -230,6 +230,6 @@ $ pip install psycopg2-binary
 
 파이썬 3.8 대 버전도 사용해봤지만, 패키지 설치 중 오류가 많이 나서 설치가 조금 힘들었던 기억이 난다. 🤔
 
-# 참고한 사이트
+## 참고한 사이트
 
 [https://www.odoo.com/documentation/13.0/setup/install.html#mac-os](https://www.odoo.com/documentation/13.0/setup/install.html#mac-os){:target="_blank"}

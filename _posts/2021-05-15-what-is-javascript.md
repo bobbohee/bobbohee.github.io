@@ -27,7 +27,7 @@ banner: '/assets/images/2021-05-15-what-is-javascript/banner.jpeg'
 
 <br/>
 
-**🗣 TMI !**
+**🗣&nbsp; TMI !**
 
 자바스크립트(JavaScript)라는 이름은 당시 자바(Java)의 인기를 이용해 마케팅하기 위해 붙여진 이름이다. 
 
@@ -99,7 +99,7 @@ $('#reset .btn').click();
 
 Javascript와 JavaScript 중 JavaScript로 작성하는 것이 맞다고 한다. 
 
-👉 [관련 글 읽어보기](https://stackoverflow.com/questions/3989731/is-it-javascript-or-javascript){:target="_blank"}
+👉&nbsp; [관련 글 읽어보기](https://stackoverflow.com/questions/3989731/is-it-javascript-or-javascript){:target="_blank"}
 
 ## 참고한 책
 

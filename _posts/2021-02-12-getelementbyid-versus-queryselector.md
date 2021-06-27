@@ -9,7 +9,7 @@ banner-position: top
 
 ###### 이 글을 읽기 전!
 
-⚠️ querySelector를 사용하고 있는 사람이 쓴 querySelector 옹호 글입니다.
+⚠️&nbsp; querySelector를 사용하고 있는 사람이 쓴 querySelector 옹호 글입니다.
 
 <br>
 
@@ -30,7 +30,7 @@ querySelector는 getElementById보다 느리다.
 
 <br>
 
-👉 [직접 벤치마크 테스트 해보기](https://www.measurethat.net/Benchmarks/ShowResult/149680){:target="_blank"}
+👉&nbsp; [직접 벤치마크 테스트 해보기](https://www.measurethat.net/Benchmarks/ShowResult/149680){:target="_blank"}
 
 ####  테스트 환경
 
@@ -40,7 +40,7 @@ querySelector는 getElementById보다 느리다.
 
 <br>
 
-⚠️ *실제 개발에서는 HTML이 훨씬 복잡하기 때문에 결과는 차이가 있을 수 있다.*
+⚠️&nbsp; *실제 개발에서는 HTML이 훨씬 복잡하기 때문에 결과는 차이가 있을 수 있다.*
 
 <br>
 
@@ -101,6 +101,8 @@ getElementsByClassName은 배열로 반환하기 때문에 단일 요소를 가�
 
 <br>
 
+**HTML**
+
 ```html
 <button class="btn btn-success">성공</button>
 <button class="btn btn-warning">실패</button>
@@ -131,7 +133,7 @@ querySelector와 jQuery를 비교해보면 jQuery가 느리다. 그럼 jQuery는
 
 ![jQuery 시장 점유율](/assets/images/2021-02-12-getelementbyid-versus-queryselector/02.%20jQuery%20시장%20점유율.png)
 
-👉 [직접 jQuery 시장 점유율 확인해보기](https://w3techs.com/technologies/history_overview/javascript_library/all/y){:target="_blank"}
+👉&nbsp; [직접 jQuery 시장 점유율 확인해보기](https://w3techs.com/technologies/history_overview/javascript_library/all/y){:target="_blank"}
 
 # 마치며, 🙇🏻
 

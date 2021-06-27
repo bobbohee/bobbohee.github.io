@@ -6,7 +6,7 @@ subtitle: '마크다운을 사용해 블로그 글 작성하기 ✏️'
 banner: '/assets/images/2021-01-22-how-to-use-markdown/banner.jpeg'
 ---
 
-많은 분들이 이용하는 티스토리나 네이버 블로그 같은 경우, 위지위그(WYSIWYG)[^1] 에디터로 글을 작성하고, 개발자들 분들이 많이 이용하는 지킬 블로그나 벨로그 같은 경우, 마크다운(Markdown)으로 글을 작성한다.
+많은 분들이 이용하는 티스토리나 네이버 블로그 같은 경우, 위지위그(WYSIWYG)[^1] 에디터로 글을 작성하고, 개발자들 분들이 많이 이용하는 Jekyll 블로그나 Velog 같은 경우, 마크다운(Markdown)으로 글을 작성한다.
 
 마크다운으로 글을 작성하기 때문에 마크다운 문법을 정리해놓으면 좋을 것 같아 블로그에 정리해보고자 한다.
 
@@ -14,7 +14,7 @@ banner: '/assets/images/2021-01-22-how-to-use-markdown/banner.jpeg'
 
 마크다운은 마크업 언어의 일종으로, 마크다운으로 작성한 문서는 HTML로 변환이 가능하다. 
 
-읽기 쉽고, 쓰기 쉬운 문법이 장점이지만 문법 표준이 없어 마크다운을 지원하는 곳마다 조금씩 문법이 상이하다는 단점이 있다.
+읽기 쉽고, 쓰기 쉬운 문법이 장점이지만, 문법 표준이 없어 마크다운을 지원하는 곳마다 조금씩 문법이 상이하다는 단점이 있다.
 
 
 # 마크다운 문법 정리
@@ -149,8 +149,8 @@ __bold__
 
 ```markdown
 + Apple
-	- Banana
-		* Orange
+  - Banana	    
+    * Orange
 ```
 
 + Apple
@@ -222,7 +222,7 @@ My github id is [bobbohee](https://github.com/bobbohee).
 
 <br/>
 
-마크다운 문법으로는 이미지 사이즈 조절이 불가능하기 때문에 사이즈를 조절해야 할 경우 HTML 문법을 이용해야 한다.
+마크다운 문법으로는 이미지 사이즈 조절이 불가능하기 때문에, 사이즈를 조절해야 할 경우 HTML 문법을 이용해야 한다.
 
 ```html
 <img width="170px" height="100px" alt="markdown logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png">
@@ -234,7 +234,7 @@ My github id is [bobbohee](https://github.com/bobbohee).
 
 > `<hr>` 태그로 변환된다.
 
-마크다운 문서는 페이지 구분이 없기 때문에 페이지를 구분지을 경우 사용한다.
+마크다운 문서는 페이지 구분이 없기 때문에, 페이지를 구분지을 경우 사용한다.
 
 ```markdown
 ---
@@ -311,7 +311,7 @@ const say_hello = () => {
 
 <br>
 
-👉 [마크다운 표 쉽게 만들기](https://www.tablesgenerator.com/markdown_tables){:target="_blank"}
+👉&nbsp; [마크다운 표 쉽게 만들기](https://www.tablesgenerator.com/markdown_tables){:target="_blank"}
 
 # 마치며, 🙇🏻
 
