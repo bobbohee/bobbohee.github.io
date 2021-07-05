@@ -61,7 +61,7 @@ QR 코드가 나타났다! 이제 OTP 애플리케이션에서 QR 코드를 스�
 
 <br>
 
-👉&nbsp; [Google Authenticator가 아닌 Twillo Authy를 사용하는 이유](https://steemit.com/kr/@segyepark/google-authenticator-authy)
+👉&nbsp; [Google Authenticator가 아닌 Twillo Authy를 사용하는 이유](https://steemit.com/kr/@segyepark/google-authenticator-authy){:target="_blank"}
 
 ## #7
 
