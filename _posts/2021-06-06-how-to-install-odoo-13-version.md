@@ -2,9 +2,13 @@
 layout: post
 categories: Odoo
 title: 'MacOS에 Odoo 버전 13 설치하기'
-subtitle: '파이썬 버전에 따라 세상 깐깐한 Odoo 설치하기 🍆'
+subtitle: '세상 깐깐한 Odoo 설치하고 세팅하기 - 1편 🍆'
 banner: '/assets/images/2021-06-06-how-to-install-odoo-13-version-on-mac/banner.jpeg'
 ---
+
+[2편 - ‘파이참(Pycharm)에 Odoo 환경 설정하기’](/2021-07-16/how-to-configure-odoo-with-pycharm){:target="_blank"}
+
+<br>
 
 ###### 이 글을 읽기 전!
 
