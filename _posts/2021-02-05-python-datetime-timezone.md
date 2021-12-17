@@ -8,7 +8,7 @@ banner: '/assets/images/2021-02-05-python-datetime-timezone/banner.jpeg'
 
 이 글은 협정세계시(UTC)와 그리니치 평균시(GMT), 시간대(Timezone)에 대한 이해가 필요하기 때문에 아래 글을 먼저 읽어보기를 추천한다.
 
-👉&nbsp; [협정세계시(UTC)와 그리니치 평균시(GMT) + 서머타임(Summer Time)](https://bobbohee.github.io/2021-01-29/utc-and-gmt){:target="_blank"}
+👉&nbsp; [협정세계시(UTC)와 그리니치 평균시(GMT) + 서머타임(Summer Time)](https://bobbohee.github.io/2021-01-29/what-is-utc-and-gmt){:target="_blank"}
 
 # datetime 모듈
 
@@ -102,7 +102,7 @@ from pytz import timezone, utc
 now = datetime.now()
 KST = timezone('Asia/Seoul')
 
-timezone.localize(navie)
+KST.localize(navie)
 # UTC 시간, KST 시간대
 # > 2021-02-05 13:21:47.901826+09:00
 # > datetime(2021, 2, 5, 13, 21, 47, 901826, tzinfo=<DstTzInfo 'Asia/Seoul' KST+9:00:00 STD>)
