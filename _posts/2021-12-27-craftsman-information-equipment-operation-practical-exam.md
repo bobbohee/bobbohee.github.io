@@ -24,7 +24,7 @@ subtitle: '정보기기운용기능사 실기 빠르게 공부하기 📖'
 필수는 아니지만, 기본 개념이 없는 상태에서 강의를 듣게 되면 이해하는 데 어려움을 겪을 수 있다.
 
 <div class="d-flex">
-    <img src="/assets/images/2021-12-27-craftsman-information-equipment-operation-practical-exam/2.jpeg" alt="모두의 네트워크" class="col-md-6 px-0 shadow"/>
+    <img src="/assets/images/2021-12-27-craftsman-information-equipment-operation-practical-exam/2.jpeg" alt="모두의 네트워크" class="col-md-6 shadow"/>
 </div>
 
 <figcaption class="mt-0 mb-4">출처 알라딘</figcaption>
@@ -35,7 +35,7 @@ subtitle: '정보기기운용기능사 실기 빠르게 공부하기 📖'
 강의만 들어도 충분하기 때문에 굳이 책을 구매할 필요는 없다.
 
 <div class="d-flex">
-    <img src="/assets/images/2021-12-27-craftsman-information-equipment-operation-practical-exam/3.jpeg" alt="2019 이기적 정보기기운용기능사 실기 기본서" class="col-md-6 px-0 shadow"/>
+    <img src="/assets/images/2021-12-27-craftsman-information-equipment-operation-practical-exam/3.jpeg" alt="2019 이기적 정보기기운용기능사 실기 기본서" class="col-md-6 shadow"/>
 </div>
 
 <figcaption class="mt-0 mb-4">출처 알라딘</figcaption>

@@ -23,7 +23,7 @@ banner: '/assets/images/2021-04-04-review-apple-magic-trackpad2/banner.jpeg'
 
 매직 트랙패드2는 실버 색상과 스페이스 그레이 색상이 있는데, 실버 색상은 149,000원, 스페이스 그레이 색상은 169,000원이다. 
 
-<div class="d-flex flex-column flex-md-row justify-content-md-between ">
+<div class="d-flex flex-column flex-md-row justify-content-md-between">
     <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/01.%20트랙패드%20실버.jpeg" alt="트랙패드 실버" class="col-md-6 mb-0"/>
     <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/01.%20트랙패드%20스페이스그레이.jpeg" alt="트랙패드 스페이스그레이" class="col-md-6 mb-0"/>
 </div>
