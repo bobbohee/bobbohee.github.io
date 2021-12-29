@@ -24,7 +24,7 @@ banner-position: top
 
 ![티스토리 통계 분석](/assets/images/2021-01-15-from-tistory-to-jekyll/01.%20티스토리%20통계%20분석.png)
 
-<figcaption>방문자 수를 매일 확인할 만큼 티스토리에 통계ㆍ분석 기능을 좋아했다.</figcaption>
+<figcaption class="mt-n4">방문자 수를 매일 확인할 만큼 티스토리에 통계ㆍ분석 기능을 좋아했다.</figcaption>
 
 여기서 말한 블로그 서비스는 블로그에 필요한 기능인 글 업로드나 댓글, 카테고리ㆍ태그 관리, 검색, 통계ㆍ분석 등을 말한다. 
 블로그 서비스에서 이런 기능들을 제공하는 게 당연하겠지만, 지킬애서는 이것들을 손수 추가해주어야 한다.
@@ -116,7 +116,7 @@ banner-position: top
 
 ![iCloud Drive](/assets/images/2021-01-15-from-tistory-to-jekyll/06.%20iCloud%20Drive.png)
 
-<figcaption>임시로 iCloud Drive에서 이미지를 가져오는데 굉장히 번거롭다.</figcaption>
+<figcaption class="mt-n4">임시로 iCloud Drive에서 이미지를 가져오는데 굉장히 번거롭다.</figcaption>
 
 지킬은 github를 기반으로 운영되는데 github는 1개의 레포지토리당 `5GB 미만`, 계정당 총 레포지토리 `75GB 미만`을 권장한다.
 또한, 1개의 파일은 `100MB`를 넘기면 안 된다. 글을 올리기 전에 이미지 사이즈가 너무 크지 않은지 확인해야 한다.

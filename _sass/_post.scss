@@ -75,7 +75,7 @@
   }
 
   img {
-    margin: 0 auto;
+    margin: 0 auto 0.5rem;
 
     &.shadow {
       border-radius: 0.35rem;
@@ -189,15 +189,13 @@
   }
 
   figcaption {
-    margin-top: -30px;
     text-align: center;
     font-size: 17px;
     color: $grey-1;
     line-height: 1.8;
-    margin-bottom: 40px;
+    margin-bottom: 1.5rem;
 
     @media (max-width: $break-small) {
-      margin-top: -15px;
       font-size: 15px;
     }
   }

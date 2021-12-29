@@ -55,7 +55,7 @@ UTC는 Universal Time Code이나 Universal Time Coordination의 약어라고 하
 
 ![미국 시간대](/assets/images/2021-01-29-what-is-utc-and-gmt/03.%20미국%20시간대.png)
 
-<figcaption>구글에 '미국 시간'을 검색했을 때 나오는 결과</figcaption>
+<figcaption class="mt-n4">구글에 '미국 시간'을 검색했을 때 나오는 결과</figcaption>
 
 # 서머타임(Summer Time)
 

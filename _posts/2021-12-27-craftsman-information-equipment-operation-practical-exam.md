@@ -27,7 +27,7 @@ subtitle: '정보기기운용기능사 실기 빠르게 공부하기 📖'
     <img src="/assets/images/2021-12-27-craftsman-information-equipment-operation-practical-exam/2.jpeg" alt="모두의 네트워크" class="col-md-6 shadow"/>
 </div>
 
-<figcaption class="mt-0 mb-4">출처 알라딘</figcaption>
+<figcaption>출처 알라딘</figcaption>
 
 ## 패킷 트레이서 실습
 
@@ -38,7 +38,7 @@ subtitle: '정보기기운용기능사 실기 빠르게 공부하기 📖'
     <img src="/assets/images/2021-12-27-craftsman-information-equipment-operation-practical-exam/3.jpeg" alt="2019 이기적 정보기기운용기능사 실기 기본서" class="col-md-6 shadow"/>
 </div>
 
-<figcaption class="mt-0 mb-4">출처 알라딘</figcaption>
+<figcaption>출처 알라딘</figcaption>
 
 <br>
 
