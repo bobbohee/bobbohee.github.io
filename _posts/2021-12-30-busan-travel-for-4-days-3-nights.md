@@ -33,7 +33,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 하지만 인생은 언제나 계획대로 흘러가지 않는 법...~ 전날 내린 눈을 녹이느라 출발이 1시간 40분 지연되어서 11시에 부산에 도착했다.
 결국 밤팥빵과 소보루비스킷은 사지 못했다. 😭
 
-![희와제과](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/01.%20%E1%84%92%E1%85%B4%E1%84%8B%E1%85%AA%E1%84%8C%E1%85%A6%E1%84%80%E1%85%AA.jpg){: .col-md-8}
+![희와제과](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/01.%20%ED%9D%AC%EC%99%80%EC%A0%9C%EA%B3%BC%20%EC%95%88%EB%82%B4%ED%8C%90.jpg){: .col-md-8}
 <figcaption>그래도 휘낭시에는 살 수 있었다</figcaption>
 
 
