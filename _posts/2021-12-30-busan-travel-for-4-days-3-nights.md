@@ -33,7 +33,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 하지만 인생은 언제나 계획대로 흘러가지 않는 법...~ 전날 내린 눈을 녹이느라 출발이 1시간 40분 지연되어서 11시에 부산에 도착했다.
 결국 밤팥빵과 소보루비스킷은 사지 못했다. 😭
 
-![희와제과](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/01.%20희와제과.jpg){: .col-md-8}
+![희와제과](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/01.%20%E1%84%92%E1%85%B4%E1%84%8B%E1%85%AA%E1%84%8C%E1%85%A6%E1%84%80%E1%85%AA.jpg){: .col-md-8}
 <figcaption>그래도 휘낭시에는 살 수 있었다</figcaption>
 
 
@@ -45,11 +45,11 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 <div class="d-flex flex-column flex-md-row">
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/02.%20겐츠베이커리.jpg" alt="겐츠베이커리"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/02.%20%EA%B2%90%EC%B8%A0%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC.jpg" alt="겐츠베이커리"/>
         <figcaption>겐츠베이커리</figcaption>
     </div>
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/03.%20옵스.jpg" alt="옵스"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/03.%20%EC%98%B5%EC%8A%A4.jpg" alt="옵스"/>
         <figcaption>옵스</figcaption>
     </div>
 </div>
@@ -67,7 +67,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 용이초밥은 그냥 미친 맛... 🌈 &nbsp; 😇 &nbsp; 계획 없이 시킨거라 기대를 하나도 안 했는데 진짜 맛있었다.
 아직도 첫입에 감동을 잊지 못해...
 
-![톤쇼우 용이초밥](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/04.%20톤쇼우%20용이초밥.jpg){: .col-md-8}
+![톤쇼우 용이초밥](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/04.%20%ED%86%A4%EC%87%BC%EC%9A%B0%20%EC%9A%A9%EC%9D%B4%EC%B4%88%EB%B0%A5.jpg){: .col-md-8}
 <figcaption>용이초밥 비주얼 장난 없음...🍣
 </figcaption>
 
@@ -84,11 +84,11 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 <div class="d-flex flex-column flex-md-row">
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/05.%20빵%20먹방%201.jpg" alt="빵 먹방 1"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/05.%20%EB%B9%B5%20%EB%A8%B9%EB%B0%A9%201.jpg" alt="빵 먹방 1"/>
         <figcaption>컵넛 뽀또 도넛과 여러 빵</figcaption>
     </div>
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/06.%20빵%20먹방%202.jpg" alt="빵 먹방 2"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/06.%20%EB%B9%B5%20%EB%A8%B9%EB%B0%A9%202.jpg" alt="빵 먹방 2"/>
         <figcaption>완전 콩인데 !!</figcaption>
     </div>
 </div>
@@ -103,7 +103,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 개미집 낙곱새는 그냥 soso 우리 동네에 국민 낙곱새가 더 맛있었다.
 
-![개미집 낙곱새](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/07.%20개미집%20낙곱새.jpg){: .col-md-8}
+![개미집 낙곱새](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/07.%20%EA%B0%9C%EB%AF%B8%EC%A7%91%20%EB%82%99%EA%B3%B1%EC%83%88.jpg){: .col-md-8}
 <figcaption>여기 김치 난 맛있었는데 박지희랑 윤수아는 별로라고...</figcaption>
 
 <br>
@@ -111,7 +111,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 저녁을 다 먹고, 소화를 시킬 겸 또 빵을 포장하러 나왔다.
 바닷마을과자점과 순쌀빵, 홍미당 총 3군데를 갔는데 바닷마을과자점은 영업 마감, 순쌀빵은 살 거 없음, 홍미당은 사고 싶었던 페이글이 품절이라 소득없이 돌아왔다.
 
-![광안리 바다](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/08.%20광안리%20바다.jpg){: .col-md-8}
+![광안리 바다](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/08.%20%EA%B4%91%EC%95%88%EB%A6%AC%20%EB%B0%94%EB%8B%A4.jpg){: .col-md-8}
 <figcaption>이동 중에 틈틈이 바다 구경</figcaption>
 
 
@@ -121,7 +121,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 조각 케이크도 있었지만, 실제로 보니 홀 케이크가 생각보다 작아서 다 먹을 수 있을 것 같아 홀 케이크로 샀다. 조금 비싸긴 하지만 1년 동안 열심히 일한 우리를 위해 이 정도야. 🤟 &nbsp;
 맛은 그냥 딸기 올라간 초코케이크 맛이었다.
 
-![투썸플레이스 케이크](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/09.%20투썸플레이스%20케이크.jpg){: .col-md-8}
+![투썸플레이스 케이크](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/09.%20%ED%88%AC%EC%8D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%20%EC%BC%80%EC%9D%B4%ED%81%AC.jpg){: .col-md-8}
 <figcaption>나름 분위기를 내고자 초도 불었다</figcaption>
 
 
@@ -138,7 +138,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 박지희가 밀면 맛없다고 해서 기대를 하나도 안 했는데 생각보다 맛있어서 만족스러웠다.
 오히려 만두를 기대했는데 그냥 당근 많이 들어간 만두 맛이었다.
 
-![남천가야밀면 다리집](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/10.%20남천가야밀면%20다리집.jpg){: .col-md-8}
+![남천가야밀면 다리집](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/10.%20%EB%82%A8%EC%B2%9C%EA%B0%80%EC%95%BC%EB%B0%80%EB%A9%B4%20%EB%8B%A4%EB%A6%AC%EC%A7%91.jpg){: .col-md-8}
 <figcaption>떡볶이가... 내가 먹고 싶다고 해서 산 거라 조금 미안했다
 </figcaption>
 
@@ -149,7 +149,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 원래 늦을 것 같아서 택시를 타려 했는데 블로그에 검색해보니 대기하는 줄이 있어 늦어도 탑승할 수 있다고 해서 그냥 버스를 타고 갔다.
 1시간 정도 기다려서 탄 것 같은데 가만히 서서 기다리다 다리 부러질 뻔했다...
 
-![해운대 블루라인파크 1](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/11.%20해운대%20블루라인파크%201.jpg){: .col-md-8}
+![해운대 블루라인파크 1](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/11.%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B8%ED%8C%8C%ED%81%AC%201.jpg){: .col-md-8}
 <figcaption>곧 크리스마스라 빨간 열차만 루돌프 st</figcaption>
 
 밖에서 볼 때는 되게 느렸는데 탑승해보니 그렇게 느리지 않았다.
@@ -159,11 +159,11 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 <div class="d-flex flex-column flex-md-row">
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/12.%20해운대%20블루라인파크%202.jpg" alt="해운대 블루라인파크 2"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/12.%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B8%ED%8C%8C%ED%81%AC%202.jpg" alt="해운대 블루라인파크 2"/>
         <figcaption>이 배경으로 수아 인생샷 찍어줬다</figcaption>
     </div>
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/13.%20해운대%20블루라인파크%203.jpg" alt="해운대 블루라인파크 3"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/13.%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B8%ED%8C%8C%ED%81%AC%203.jpg" alt="해운대 블루라인파크 3"/>
         <figcaption>위로 다니는 열차라 풍경이 잘 보인다</figcaption>
     </div>
 </div>
@@ -173,7 +173,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 나는 1/2은 온 줄 알았는데 수아가 1/3도 안 왔다고 해서 절망스러웠다.
 다행히 산책하는 강아지가 있어서 그 강아지 뒷모습을 보며 강아지 뒤를 졸졸 따라가니 조금은 다리 아픔을 잊을 수 있었다. 고마워 이름 모를 말티즈야...
 
-![해운대 블루라인파크 4](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/14.%20해운대%20블루라인파크%204.jpg){: .col-md-8}
+![해운대 블루라인파크 4](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/14.%20%ED%95%B4%EC%9A%B4%EB%8C%80%20%EB%B8%94%EB%A3%A8%EB%9D%BC%EC%9D%B8%ED%8C%8C%ED%81%AC%204.jpg){: .col-md-8}
 <figcaption>날이 따뜻해서 셔츠만 입고 갔는데 저녁이 되니 조금 추웠다</figcaption>
 
 
@@ -187,7 +187,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 야식으로 푸라닭 콘소메이징을 시켜먹기로 해서 2인분만 포장했는데 참 다행이었다.
 
-![해성막창 곱창전골](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/15.%20해성막창%20곱창전골.jpg){: .col-md-8}
+![해성막창 곱창전골](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/15.%20%ED%95%B4%EC%84%B1%EB%A7%89%EC%B0%BD%20%EA%B3%B1%EC%B0%BD%EC%A0%84%EA%B3%A8.jpg){: .col-md-8}
 <figcaption>또 나온 대선. 또 남김</figcaption>
 
 
@@ -198,7 +198,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 푸라닭은 무조건 순살로 먹어야 한다.
 
-![푸라닭 콘소메이징](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/16.%20푸라닭%20콘소메이징.jpg){: .col-md-8}
+![푸라닭 콘소메이징](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/16.%20%ED%91%B8%EB%9D%BC%EB%8B%AD%20%EC%BD%98%EC%86%8C%EB%A9%94%EC%9D%B4%EC%A7%95.jpg){: .col-md-8}
 <figcaption>고추마요소스랑도 잘 어울린다 🌽
 </figcaption>
 
@@ -211,7 +211,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 박지희랑 나눠 먹었는데 박지희가 나중에 이때 먹은 육개장이 너무 맛있었다고 했다.
 
-![베란다에서 육개장](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/17.%20베란다에서%20육개장.jpg){: .col-md-8}
+![베란다에서 육개장](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/17.%20%EB%B2%A0%EB%9E%80%EB%8B%A4%EC%97%90%EC%84%9C%20%EC%9C%A1%EA%B0%9C%EC%9E%A5.jpg){: .col-md-8}
 <figcaption>겨울에 밖에서 먹는 컵라면은 찐맛</figcaption>
 
 
@@ -223,7 +223,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 아침은 전날 포장해온 고니즈 도넛과 남은 빵으로 아침을 해결했다.
 고니즈 도넛은 지나가다 보여서 포장해왔는데 그냥 soso 컵넛 도넛이 더 맛있었다.
 
-![빵 먹방 3](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/18.%20빵%20먹방%203.jpg){: .col-md-8}
+![빵 먹방 3](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/18.%20%EB%B9%B5%20%EB%A8%B9%EB%B0%A9%203.jpg){: .col-md-8}
 <figcaption>소세지빵은 없어진 줄 알았는데 봉투 사이에 숨어있었다</figcaption>
 
 
@@ -234,7 +234,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 우리는 11시 55분쯤 도착해서 테이블링으로 줄을 서는데 앞에 28팀 정도 있었다.
 20팀 넘어가면 맘모스를 못산다는 얘기가 있어서 못살까 봐 조마조마했는데 맘모스 종류별로 2개씩 살 수 있게 제한이 생겨서인지 다행히 맘모스를 살 수 있었다. 휴...
 
-![초량온당](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/19.%20초량온당.jpg){: .col-md-8}
+![초량온당](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/19.%20%EC%B4%88%EB%9F%89%EC%98%A8%EB%8B%B9.jpg){: .col-md-8}
 <figcaption>초량온당 그림자 귀엽다...</figcaption>
 
 매일 판매하는 메뉴가 조금씩 다른데 메뉴는 초량온당 인스타그램에서 확인할 수 있다.
@@ -244,7 +244,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 크럼블도 유명해서 단호박크럼블과 황치즈콘크럼블, 찐녹차크럼블을 샀다.
 
-![초량온당 피스타치오체리초코맘모스](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/20.%20초량온당%20피스타치오체리초코맘모스.jpg){: .col-md-8}
+![초량온당 피스타치오체리초코맘모스](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/20.%20%EC%B4%88%EB%9F%89%EC%98%A8%EB%8B%B9%20%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4%EC%B2%B4%EB%A6%AC%EC%B4%88%EC%BD%94%EB%A7%98%EB%AA%A8%EC%8A%A4.jpg){: .col-md-8}
 <figcaption>맘모스는 이름부터 든든하게 생겼다</figcaption>
 
 
@@ -255,7 +255,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 그래도 광안리 근처 소품샵보다는 훨씬 볼 게 많았던 것 같다.
 하이피넛은 캐릭터가 내 취향이었는데 소품샵에서 자체 제작한 캐릭터인지 이 캐릭터로 된 제품이 몇 개 없어서 엽서 한 장만 샀다.
 
-![소품샵 하이피넛](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/21.%20소품샵%20하이피넛.jpg){: .col-md-8}
+![소품샵 하이피넛](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/21.%20%EC%86%8C%ED%92%88%EC%83%B5%20%ED%95%98%EC%9D%B4%ED%94%BC%EB%84%9B.jpg){: .col-md-8}
 <figcaption>안녕 땅콩들</figcaption>
 
 <br>
@@ -271,7 +271,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 버거는 셋 다 베이컨치즈버거를 시켰는데 그냥 수제 버거 맛이었다. 근데 박지희는 엄청 맛있어했다.
 
-![버거샵](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/22.%20버거샵.jpg){: .col-md-8}
+![버거샵](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/22.%20%EB%B2%84%EA%B1%B0%EC%83%B5.jpg){: .col-md-8}
 <figcaption>연노란색 소스가 맛있었다</figcaption>
 
 <br>
@@ -286,11 +286,11 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 <div class="d-flex flex-column flex-md-row">
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/23.%20베이커스%20빨미까레.jpg" alt="베이커스 빨미까레"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/23.%20%EB%B2%A0%EC%9D%B4%EC%BB%A4%EC%8A%A4%20%EB%B9%A8%EB%AF%B8%EA%B9%8C%EB%A0%88.jpg" alt="베이커스 빨미까레"/>
         <figcaption>베이커스 빨미까레</figcaption>
     </div>
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/24.%20퍼프베이커리%20클래식퀸아망.jpg" alt="퍼프베이커리 클래식퀸아망"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/24.%20%ED%8D%BC%ED%94%84%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC%20%ED%81%B4%EB%9E%98%EC%8B%9D%ED%80%B8%EC%95%84%EB%A7%9D.jpg" alt="퍼프베이커리 클래식퀸아망"/>
         <figcaption>퍼프베이커리 클래식 퀸아망</figcaption>
     </div>
 </div>
@@ -303,7 +303,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 (배달의 민족에는 영진돼지국밥이라고 되어있는데, 네이버 지도에 검색하니 구빱더빱이라고 나온다.)
 
-![영진돼지국밥](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/25.%20영진돼지국밥.jpg){: .col-md-8}
+![영진돼지국밥](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/25.%20%EC%98%81%EC%A7%84%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5.jpg){: .col-md-8}
 <figcaption>사진에는 없지만 첫째 날 먹은 용이 초밥이 맛있어서 또 시켜먹었다</figcaption>
 
 <br>
@@ -314,7 +314,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 나도 쑥, 인절미, 흑임자 같은 꼬수운 맛을 좋아하긴 하지만 이건 너무 꼬수웠어...
 미니 크로와상은 1950 태성당에서 사왔는데 별로였다... 왕초코빵은 라푀유크로와상에서 사온 더티초코인데 맛있었다.
 
-![빵 먹방 4](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/26.%20빵%20먹방%204.jpg){: .col-md-8}
+![빵 먹방 4](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/26.%20%EB%B9%B5%20%EB%A8%B9%EB%B0%A9%204.jpg){: .col-md-8}
 <figcaption>크로와상 하나는 고구마인 줄 알고 집어 온 건데 초코였다</figcaption>
 
 원래 퍼프베이커리에서 쑥메밀크로와상은 살 생각은 없었는데 크로와상이 진짜 크고, 맛있게 생겨서 홀린 듯이 사버렸다.
@@ -322,11 +322,11 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 
 <div class="d-flex flex-column flex-md-row">
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/27.%20빵%20먹방%205.jpg" alt="빵 먹방 5"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/27.%20%EB%B9%B5%20%EB%A8%B9%EB%B0%A9%205.jpg" alt="빵 먹방 5"/>
         <figcaption>결 장난 아니다...</figcaption>
     </div>
     <div class="col-md-6">
-        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/28.%20빵%20먹방%206.jpg" alt="빵 먹방 6"/>
+        <img src="/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/28.%20%EB%B9%B5%20%EB%A8%B9%EB%B0%A9%206.jpg" alt="빵 먹방 6"/>
         <figcaption>쑥메밀이라는데 그냥 쑥 맛</figcaption>
     </div>
 </div>
@@ -338,7 +338,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 각자 먹고 싶은 맛으로 1개씩 고른 건데 내가 고른 황치즈콘크럼블이 제일 별로였다.
 난 황치즈만 보고 산 건데 웬 옥수수 알맹이가... 다시 보니 황치즈콘이어서 옥수수가 들어있는 거였다.
 
-![빵 먹방 7](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/29.%20빵%20먹방%207.jpg){: .col-md-8}
+![빵 먹방 7](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/29.%20%EB%B9%B5%20%EB%A8%B9%EB%B0%A9%207.jpg){: .col-md-8}
 <figcaption>앞에서 다른 빵을 많이 먹어서 좀 더럽다...😳
 </figcaption>
 
@@ -350,7 +350,7 @@ subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 신던 신발이 너무 해졌길래 새 신발을 신고 여행을 갔는데, 신발에 적응이 안 되었는지 조금 걸으니 누가 뒤꿈치를 쿡쿡 찌르는 것 같았다.
 앞에서 쌓인 피로가 풀어지지 않았는지 뒤로 갈수록 조금 걸었는데도 3일 차에는 진짜 발이 찢어질 뻔했다... 파스를 4개나 붙이고 잤다.
 
-![걸음 수](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/30.%20걸음%20수.jpg){: .col-md-8}
+![걸음 수](/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/30.%20%EA%B1%B8%EC%9D%8C%20%EC%88%98.jpg){: .col-md-8}
 <figcaption>평소에는 하루에 200보 걷는데.. 갑자기 20,000보</figcaption>
 
 <br><br><br><br><br>
