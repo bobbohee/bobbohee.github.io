@@ -53,11 +53,13 @@ $ brew install pyenv
 
 ### 환경 변수 설정
 
-`zsh`를 사용하는 경우, `~/.bashrc` 대신 `~/.zshrc`로 변경해 명령어를 실행한다.
+`bash`를 사용하는 경우, `~/.zshrc` 대신 `~/.bashrc`로 변경해 명령어를 실행한다.
 
 ```bash
-$ echo 'export PATH="$HOME/.pyenv/bin:$PATH"' >> ~/.bashrc
-$ echo 'eval "$(pyenv init -)"' >> ~/.bashrc
+$ echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
+$ echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
+$ echo 'eval "$(pyenv init --path)"' >> ~/.zshrc
+$ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 ```
 
 ## pyenv-virtualenv
@@ -70,10 +72,11 @@ $ brew install pyenv-virtualenv
 
 ### 환경 변수 설정
 
-`zsh`를 사용하는 경우, `~/.bashrc` 대신 `~/.zshrc`로 변경해 명령어를 실행한다.
+`bash`를 사용하는 경우, `~/.zshrc` 대신 `~/.bashrc`로 변경해 명령어를 실행한다.
 
 ```bash
 $ echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
+$ echo 'export PYENV_VIRTUALENV_DISABLE_PROMPT=1' >> ~/.zshrc
 ```
 
 # Odoo 설치
