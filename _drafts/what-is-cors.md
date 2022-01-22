@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Javascript
+category: Javascript
 title: 'CORS(Cross-Origin Resource Sharing)란?'
 subtitle: ''
 date: 

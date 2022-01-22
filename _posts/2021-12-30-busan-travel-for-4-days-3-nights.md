@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Travel
+category: Travel
 title: '3박 4일 부산 먹빵 여행'
 subtitle: '밥먹고 빵먹고 밥먹고 빵먹고에 반복 🍚 🍞'
 banner: '/assets/images/2021-12-30-busan-travel-for-4-days-3-nights/banner.jpeg'

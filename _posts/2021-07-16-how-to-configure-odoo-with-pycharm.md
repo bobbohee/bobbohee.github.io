@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Odoo
+category: Odoo
 title: '파이참(Pycharm)에 Odoo 환경 설정하기'
 subtitle: '세상 깐깐한 Odoo 설치하고 세팅하기 - 2편 🍆'
 banner: '/assets/images/2021-07-16-how-to-configure-odoo-with-pycharm/banner.jpeg'

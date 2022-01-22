@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Development
+category: Development
 title: '협정세계시(UTC)와 그리니치 평균시(GMT)란? + 서머타임(Summer Time)'
 subtitle: '시간에 대한 흥미로운 이야기들️ 😲'
 banner: '/assets/images/2021-01-29-what-is-utc-and-gmt/banner.jpeg'

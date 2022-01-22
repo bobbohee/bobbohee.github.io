@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Odoo
+category: Odoo
 title: 'MacOS에 Odoo 버전 13 설치하기'
 subtitle: '세상 깐깐한 Odoo 설치하고 세팅하기 - 1편 🍆'
 banner: '/assets/images/2021-06-06-how-to-install-odoo-13-version-on-mac/banner.jpeg'

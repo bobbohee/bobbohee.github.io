@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Python 
+category: Python
 title: '파이썬 datetime 모듈 표준 시간대(Timezone) 설정하기'
 subtitle: '표준 시간대를 설정해야 하는 이유 🕘'
 banner: '/assets/images/2021-02-05-python-datetime-timezone/banner.jpeg'
