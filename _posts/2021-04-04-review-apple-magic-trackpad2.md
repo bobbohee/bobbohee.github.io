@@ -24,8 +24,8 @@ banner: '/assets/images/2021-04-04-review-apple-magic-trackpad2/banner.jpeg'
 매직 트랙패드2는 실버 색상과 스페이스 그레이 색상이 있는데, 실버 색상은 149,000원, 스페이스 그레이 색상은 169,000원이다. 
 
 <div class="d-flex flex-column flex-md-row justify-content-md-between">
-    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/01.%20트랙패드%20실버.jpeg" alt="트랙패드 실버" class="col-md-6"/>
-    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/01.%20트랙패드%20스페이스그레이.jpeg" alt="트랙패드 스페이스그레이" class="col-md-6"/>
+    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/01-trackpad-silver.jpeg" alt="트랙패드 실버" class="col-md-6"/>
+    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/02-trackpad-spacegray.jpeg" alt="트랙패드 스페이스그레이" class="col-md-6"/>
 </div>
 
 <figcaption>순서대로 실버 - 스페이스 그레이</figcaption>
@@ -35,7 +35,7 @@ banner: '/assets/images/2021-04-04-review-apple-magic-trackpad2/banner.jpeg'
 결과는 키보드에 맞춰 실버 색상을 구매하였다. 
 사진으로 보았을 때 푸른 계열의 흰색 톤이라고 생각했는데, 실물로 보니 붉은 계열의 흰색 톤이어서 더 만족스러웠다.
 
-<img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/02.%20트랙패드와%20K380키보드.jpg" alt="트랙패드와 K380키보드" class="col-md-6"/>
+<img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/03-trackpad-and-k380-keyboard.jpg" alt="트랙패드와 K380키보드" class="col-md-6"/>
 
 <figcaption>명칭은 실버 색상이지만 화이트 색상인 매직 트랙패드 👀</figcaption>
 
@@ -48,9 +48,9 @@ banner: '/assets/images/2021-04-04-review-apple-magic-trackpad2/banner.jpeg'
 뒷면에는 애플 로고와 모퉁이에 미끄럼 방지 고무패킹이 있고, 위 측면에는 라이트닝 케이블을 통해 충천할 수 있는 충전 포트와 전원 버튼이 있다.
 
 <div class="d-flex flex-column flex-md-row justify-content-md-between">
-    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/03.%20트랙패드%20앞면.jpg" alt="트랙패드 앞면" class="col-md-4"/>
-    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/03.%20트랙패드%20뒷면.jpg" alt="트랙패드 뒷면" class="col-md-4"/>
-    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/03.%20트랙패드%20측면.jpg" alt="트랙패드 측면" class="col-md-4"/>
+    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/04-trackpad-front.jpg" alt="트랙패드 앞면" class="col-md-4"/>
+    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/05-trackpad-back.jpg" alt="트랙패드 뒷면" class="col-md-4"/>
+    <img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/06-trackpad-side.jpg" alt="트랙패드 측면" class="col-md-4"/>
 </div>
 
 <figcaption>순서대로 앞면 - 뒷면 - 측면</figcaption>
@@ -65,7 +65,7 @@ banner: '/assets/images/2021-04-04-review-apple-magic-trackpad2/banner.jpeg'
 
 다른 애플 제품과 크기를 비교하면, 가로는 아이폰 6+, 7+, 8+ 기종의 세로 길이와 비슷하고, 세로는 매직 키보드의 세로 길이와 똑같다.
 
-<img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/04.%20트랙패드와%20매직키보드.jpeg" alt="트랙패드와 매직키보드" class="col-12"/>
+<img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/07-trackpad-and-magic-keyboard.jpeg" alt="트랙패드와 매직키보드" class="col-12"/>
 
 <figcaption>출처 Apple 공식 홈페이지</figcaption>
 
@@ -98,7 +98,7 @@ Apple 공식 홈페이지에 매직 트랙패드2에 대한 개요를 보면 아
 매직 트랙패드2와 노트북 거치대를 구입해 업무 환경도 새롭게 세팅을 해보았다. 
 노트북 거치대를 구입하면서 장패드도 같이 구입했는데 장패드를 깔아놓으니 깔끔해보이는 것 같다.
 
-<img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/05.%20새로%20바뀐%20업무%20환경.jpg" alt="새로 바뀐 업무 환경" class="col-12"/>
+<img src="/assets/images/2021-04-04-review-apple-magic-trackpad2/08-new-working-environment.jpg" alt="새로 바뀐 업무 환경" class="col-12"/>
 
 <figcaption>현재는 옆에 독서대도 추가되었다 📚</figcaption>
 

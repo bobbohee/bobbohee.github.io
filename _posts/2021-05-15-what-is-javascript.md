@@ -13,7 +13,7 @@ banner: '/assets/images/2021-05-15-what-is-javascript/banner.jpeg'
 <p class="ex">ex) 이미지 슬라이드, 드롭다운</p>
 
 <div>
-    <img src="/assets/images/2021-05-15-what-is-javascript/01.%20이미지%20슬라이드.gif" alt="이미지 슬라이드" class="shadow" width="100%" />
+    <img src="/assets/images/2021-05-15-what-is-javascript/01-image-slide.gif" alt="이미지 슬라이드" class="shadow" width="100%" />
     <figcaption>출처 https://davidwalsh.name</figcaption>
 </div>
 

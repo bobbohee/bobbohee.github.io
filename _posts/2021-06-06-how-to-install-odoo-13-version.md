@@ -231,7 +231,7 @@ $ pip install psycopg2-binary
 
 [localhost:8069](http://localhost:8069)에 접속했을 때, 아래와 같은 페이지가 나타나면 Odoo 설치 성공이다! ✌️
 
-![Odoo 접속 시 나타나는 페이지](/assets/images/2021-06-06-how-to-install-odoo-13-version-on-mac/01.%20Odoo%20접속%20시%20나타나는%20페이지.png)
+![Odoo 접속 시 나타나는 페이지](/assets/images/2021-06-06-how-to-install-odoo-13-version-on-mac/01-welcome-to-odoo.png)
 
 # 마치며, 🙇🏻
 

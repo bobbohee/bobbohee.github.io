@@ -267,7 +267,7 @@ My github id is [bobbohee](https://github.com/bobbohee).
 
 (중첩 블록 코드는 사용할 수 없어 이미지로 대체한다.)
 
-![마크다운 코드 문법](/assets/images/2021-01-22-how-to-use-markdown/01.%20마크다운%20코드%20문법.png)
+![마크다운 코드 문법](/assets/images/2021-01-22-how-to-use-markdown/01-markdown-codeblocks.png)
 
 ``` javascript 
 const say_hello = () => {

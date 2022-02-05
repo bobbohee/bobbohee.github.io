@@ -22,7 +22,7 @@ banner-position: top
 
 ### 블로그 서비스 제공
 
-![티스토리 통계 분석](/assets/images/2021-01-15-from-tistory-to-jekyll/01.%20티스토리%20통계%20분석.png)
+![티스토리 통계 분석](/assets/images/2021-01-15-from-tistory-to-jekyll/01-tistory-analysis.png)
 
 <figcaption class="mt-n4">방문자 수를 매일 확인할 만큼 티스토리에 통계ㆍ분석 기능을 좋아했다.</figcaption>
 
@@ -31,7 +31,7 @@ banner-position: top
 
 ### 다양한 플러그인 제공
 
-![티스토리 플러그인](/assets/images/2021-01-15-from-tistory-to-jekyll/02.%20티스토리%20플러그인.png)
+![티스토리 플러그인](/assets/images/2021-01-15-from-tistory-to-jekyll/02-tistory-plugins.png)
 
 기본으로 제공하는 기능 외에 다양한 플러그인을 제공한다. 
 
@@ -43,7 +43,7 @@ banner-position: top
 
 ### 커스터마이징이 어려움
 
-![티스토리 코드 편집](/assets/images/2021-01-15-from-tistory-to-jekyll/03.%20티스토리%20코드%20편집.png)
+![티스토리 코드 편집](/assets/images/2021-01-15-from-tistory-to-jekyll/03-tistory-codeblocks.png)
 
 티스토리에서 제공하는 스킨은 코드 편집을 통해 수정할 수 있다. 
 나는 스킨에서 강조하는 색상을 노란색으로 변경해서 사용했는데 수정하는 데 오랜 시간이 걸렸다. 
@@ -67,7 +67,7 @@ banner-position: top
 
 ### 코드 블럭 오류
 
-![티스토리 코드 블럭](/assets/images/2021-01-15-from-tistory-to-jekyll/04.%20티스토리%20코드%20블럭.png)
+![티스토리 코드 블럭](/assets/images/2021-01-15-from-tistory-to-jekyll/04-tistory-codeblocks.png)
 
 한 글에서 HTML과 JS 코드 블럭을 같이 사용한다고 했을 때 1번째 코드 블럭 언어를 HTML로 설정하고, 2번째 코드 블럭 언어를 JS로 설정하면, 1번째 설정한 코드 블럭 언어가 HTML에서 JS로 변경된다.
 
@@ -97,7 +97,7 @@ banner-position: top
 
 ### 마크다운 문법 지원 (with 노션)
 
-![Markdown 문법](/assets/images/2021-01-15-from-tistory-to-jekyll/05.%20Markdown%20문법.png)
+![Markdown 문법](/assets/images/2021-01-15-from-tistory-to-jekyll/05-markdown.png)
 
 나는 평소에 공부한 내용 정리를 노션으로 하는데, 노션에 정리한 내용을 복사 + 붙여넣기 하면 마크다운 문법으로 붙여넣기 된다. 
 
@@ -114,7 +114,7 @@ banner-position: top
 
 ### 용량 관리 (옵션)
 
-![iCloud Drive](/assets/images/2021-01-15-from-tistory-to-jekyll/06.%20iCloud%20Drive.png)
+![iCloud Drive](/assets/images/2021-01-15-from-tistory-to-jekyll/06-icloud-drive.png)
 
 <figcaption class="mt-n4">임시로 iCloud Drive에서 이미지를 가져오는데 굉장히 번거롭다.</figcaption>
 

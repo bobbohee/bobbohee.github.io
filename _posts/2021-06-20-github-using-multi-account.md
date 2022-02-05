@@ -121,13 +121,13 @@ Host work.github.com
 
 깃허브 페이지에서 프로필을 눌러 `Settings` 메뉴를 클릭한다.
 
-![github 설정](/assets/images/2021-06-20-github-using-multi-account/01.%20github%20설정.png){: .shadow}
+![github 설정](/assets/images/2021-06-20-github-using-multi-account/01-github-settings.png){: .shadow}
 
 ## # 2
 
 설정 페이지에서 `SSH and GPG keys` 탭으로 이동해 `New SSH key` 버튼을 클릭한다.
 
-![github SSH](/assets/images/2021-06-20-github-using-multi-account/02.%20github%20SSH.png){: .shadow}
+![github SSH](/assets/images/2021-06-20-github-using-multi-account/02-github-ssh.png){: .shadow}
 
 ## # 3
 
@@ -143,13 +143,13 @@ $ view ~/.ssh/personal.github.com.pub
 
 `Add SSH key` 버튼을 클릭하면, SSH 키 등록이 완료된다.
 
-![github SSH 등록](/assets/images/2021-06-20-github-using-multi-account/03.%20github%20SSH%20등록.png){: .shadow}
+![github SSH 등록](/assets/images/2021-06-20-github-using-multi-account/03-github-ssh.png){: .shadow}
 
 ## # 4
 
 굉장히 쉽게 SSH 키을 등록했다! ✌️
 
-![github SSH 등록 완료](/assets/images/2021-06-20-github-using-multi-account/04.%20github%20SSH%20등록%20완료.png){: .shadow}
+![github SSH 등록 완료](/assets/images/2021-06-20-github-using-multi-account/04-github-ssh.png){: .shadow}
 
 
 # + 추가로!

@@ -72,7 +72,7 @@ document.getElementById("test");
 
 초당 처리하는 실행 횟수를 보면 getElementById가 높은 성능을 보여주고 있다.  
 
-![querySelector 실행 속도](/assets/images/2021-02-12-getelementbyid-versus-queryselector/01.%20querySelector%20실행%20속도.png)
+![querySelector 실행 속도](/assets/images/2021-02-12-getelementbyid-versus-queryselector/01-queryselector-run-time.png)
 
 # querySelector는 사용하면 안 되는 걸까?
 
@@ -131,7 +131,7 @@ querySelector와 jQuery를 비교해보면 jQuery가 느리다. 그럼 jQuery는
 
 성능(속도)보다 편의성과 생산성을 우선시했기 때문에 아직까지 jQuery에 시장 점유율이 높은 것이다. 
 
-![jQuery 시장 점유율](/assets/images/2021-02-12-getelementbyid-versus-queryselector/02.%20jQuery%20시장%20점유율.png)
+![jQuery 시장 점유율](/assets/images/2021-02-12-getelementbyid-versus-queryselector/02-market-share-of-jquery.png)
 
 👉&nbsp; [직접 jQuery 시장 점유율 확인해보기](https://w3techs.com/technologies/history_overview/javascript_library/all/y){:target="_blank"}
 

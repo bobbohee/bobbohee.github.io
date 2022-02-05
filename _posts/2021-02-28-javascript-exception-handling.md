@@ -40,7 +40,7 @@ throw new Error('500');
 
 Error 객체를 사용하면 예외를 해결하기 위해 필요한 정보를 얻을 수 있어, Error 객체를 사용하는 것이 좋다.
 
-![throw 표현](/assets/images/2021-02-28-javascript-exception-handling/01.%20throw%20표현.png)
+![throw 표현](/assets/images/2021-02-28-javascript-exception-handling/01-throw-error.png)
 
 <br>
 
