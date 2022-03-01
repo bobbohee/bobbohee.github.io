@@ -16,7 +16,7 @@ banner: '/assets/images/2022-03-01-how-to-install-odoo-14-version-on-mac/banner.
 
 <br>
 
-기존에 작성한 [MacOS에 Odoo 버전 13 설치하기](/2021-06-06/how-to-install-odoo-13-version){:target="_blank"} 글이 있지만, 버전이 달라지니 설치할 때 달라진 내용이 있어 따로 글을 작성하기로 했다.
+기존에 작성한 [MacOS에 Odoo 버전 13 설치하기](/2021-06-06/how-to-install-odoo-13-version-on-mac){:target="_blank"} 글이 있지만, 버전이 달라지니 설치할 때 달라진 내용이 있어 따로 글을 작성하기로 했다.
 
 # 홈브루(Homebrew)
 

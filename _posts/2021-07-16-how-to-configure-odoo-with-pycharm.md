@@ -6,7 +6,7 @@ subtitle: '세상 깐깐한 Odoo 설치하고 세팅하기 - 2편 🍆'
 banner: '/assets/images/2021-07-16-how-to-configure-odoo-with-pycharm/banner.jpeg'
 ---
 
-[1편 - ‘MacOS에 Odoo 버전 13 설치하기’](/2021-06-06/how-to-install-odoo-13-version){:target="_blank"}
+[1편 - ‘MacOS에 Odoo 버전 13 설치하기’][1편]{:target="_blank"}
 
 <br>
 
@@ -186,6 +186,6 @@ Log가 안보일 경우 🤨
 
 이번 포스트는 유난히 넣을 스크린샷이 많아서 편집하고 정리하느라 애먹었다. 휴...💦
 
-[1편]:/2021-06-06/how-to-install-odoo-13-version
+[1편]:/2021-06-06/how-to-install-odoo-13-version-on-mac
 
 [#7]:#7
