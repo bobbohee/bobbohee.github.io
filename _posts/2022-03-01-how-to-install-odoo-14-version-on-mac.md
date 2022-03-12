@@ -6,7 +6,7 @@ subtitle: '세상 깐깐한 Odoo 설치하고 세팅하기 - 1편 🍆'
 banner: '/assets/images/2022-03-01-how-to-install-odoo-14-version-on-mac/banner.jpeg'
 ---
 
-[2편 - ‘파이참(Pycharm)에 Odoo 환경 설정하기’](/posts/how-to-configure-odoo-with-pycharm){:target="_blank"}
+[2편 - ‘파이참(PyCharm)에 Odoo 환경 설정하기’](/posts/how-to-configure-odoo-with-pycharm){:target="_blank"}
 
 <br>
 
