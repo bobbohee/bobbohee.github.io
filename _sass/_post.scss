@@ -54,6 +54,64 @@
     font-weight: bold;
   }
 
+  .alert {
+    color: #2e2e2ec4;
+    padding: 0.75rem 1.2rem;
+
+    &::before {
+      font-family: "Font Awesome 5 Free";
+      padding: 0.14rem 0;
+      margin-right: 0.7rem;
+      text-align: center;
+      width: 1.25rem;
+      font-weight: 900;
+    }
+
+    &.alert-info {
+      background-color: #e1f5fe;
+      border-color: #ceeefd;
+
+      &::before {
+        color: #1173c8;
+        content: '\f05a';
+      }
+    }
+
+    &.alert-success {
+      background-color: #e6fdea;
+      border-color: #d0fbd7;
+
+      &::before {
+        color: #1bb11f;
+        content: '\f058';
+      }
+    }
+
+    &.alert-warning {
+      background-color: #fff3cd;
+      border-color: #ffedb3;
+
+      &::before {
+        color: #e99826;
+        content: '\f06a';
+      }
+    }
+
+    &.alert-danger {
+      background-color: #fbe9eb;
+      border-color: #f7d4d8;
+
+      &::before {
+        color: #d33f37;
+        content: '\f057';
+      }
+    }
+
+    p {
+      display: inline-block;
+    }
+  }
+
   .ex {
     color: $grey-1;
   }
