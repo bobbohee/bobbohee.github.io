@@ -493,44 +493,21 @@ video {
   margin-bottom: 50px;
 }
 
-.image-group-1 {
+.image-group {
   display: flex;
   flex-direction: column;
-  min-height: 310px;
-  margin-bottom: 0.5rem;
 
-  .image-item-1 {
+  .image-item {
     padding-left: 15px;
     padding-right: 15px;
 
     img {
-      height: 100%;
+      width: 100%;
+      height: auto;
     }
   }
 
   @media (min-width: 768px) {
     flex-direction: row;
-    height: 310px;
-  }
-}
-
-.image-group-2 {
-  display: flex;
-  flex-direction: column;
-  min-height: 350px;
-  margin-bottom: 0.5rem;
-
-  .image-item-2 {
-    padding-left: 15px;
-    padding-right: 15px;
-
-    img {
-      height: 100%;
-    }
-  }
-
-  @media (min-width: 768px) {
-    flex-direction: row;
-    height: 350px;
   }
 }

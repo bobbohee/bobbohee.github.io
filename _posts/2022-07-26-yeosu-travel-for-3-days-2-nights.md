@@ -30,11 +30,11 @@ banner: '/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/banner.jpeg'
 
 회는 두툼하니 참 맛있었다. 회 말고도 삼치구이였나? 어떤 생선구이를 주셨는데 그것도 맛있었다.
 
-<div class="image-group-2">
-    <div class="image-item-2">
+<div class="image-group">
+    <div class="image-item">
         <img src="/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/02-miro-sushi.jpg" alt="미로횟집에서 회"/>
     </div>
-    <div class="image-item-2">
+    <div class="image-item">
         <img src="/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/03-miro-sushi.jpg" alt="미로횟집에서 여수밤바다"/>
     </div>
 </div>
@@ -59,12 +59,11 @@ banner: '/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/banner.jpeg'
 아이스크림은 이순신 광장에 앉아서 나눠먹었는데, 쑥 아이스크림은 쑥떡을 아이스크림으로 만든 것처럼 완전 쑥!!!맛 
 근데 옥수수 아이스크림은 그냥 흔한 옥수수 아이스크림 맛이었다. 근데 난 다시 가면 옥수수 아이스크림 먹을거임 ~  
 
-<div class="image-group-1">
-    <div class="image-item-1">
+<div class="image-group">
+    <div class="image-item">
         <img src="/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/05-janggundo-mandu.jpg" alt="장군도 만두"/>
-        <figcaption></figcaption>
     </div>
-    <div class="image-item-1">
+    <div class="image-item">
         <img src="/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/06-yeosudang.jpg" alt="여수당"/>
     </div>
 </div>
@@ -79,11 +78,11 @@ banner: '/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/banner.jpeg'
 다음 날 점심 먹으러 가면서 여수당과 여수딸기모찌 앞을 지나갔는데 둘 다 줄이 어마어마했다... 
 무조건 평일 저녁에 가야 함! 아니면 땡볕에 서서 1시간은 대기해야 하니까...
 
-<div class="image-group-1">
-    <div class="image-item-1">
+<div class="image-group">
+    <div class="image-item">
         <img src="/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/07-yeosu-strawberry-mochi.jpg" alt="여수딸기모찌 1"/>
     </div>
-    <div class="image-item-1">
+    <div class="image-item">
         <img src="/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/08-yeosu-strawberry-mochi.jpg" alt="여수딸기모찌 2"/>
     </div>
 </div>
@@ -130,11 +129,11 @@ banner: '/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/banner.jpeg'
 마늘 바게트에서는 식용유 맛이 나서 처음엔 잉? 했는데 먹다 보니 맛있다고 해야 할까 파스타 소스에 찍어 먹으면 더 맛있다.
 그리고 카레는 토마토스파게티소스맛에 라면은 해물맛 나는 라면맛... 기다려서 먹을 정도는 아님
 
-<div class="image-group-1">
-    <div class="image-item-1">
+<div class="image-group">
+    <div class="image-item">
         <img src="/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/12-bada-siktak.jpg" alt="바다식탁 1"/>
     </div>
-    <div class="image-item-1">
+    <div class="image-item">
         <img src="/assets/images/2022-07-26-yeosu-travel-for-3-days-2-nights/13-bada-siktak.jpg" alt="바다식탁 2"/>
     </div>
 </div>
