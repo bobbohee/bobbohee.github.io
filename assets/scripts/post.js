@@ -1,4 +1,4 @@
-$(document).ready(function() {
+window.onload = function() {
 
     const screenWidth = window.screen.width;
     const post = document.querySelector('.post');
@@ -36,4 +36,4 @@ $(document).ready(function() {
         }
     }
 
-});
+}
