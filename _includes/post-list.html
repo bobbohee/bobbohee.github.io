@@ -11,7 +11,7 @@
         {% assign pastSecond = nowTime | minus: uploadTime %}
         {% assign pastDay = pastSecond | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
 
-        <!-- draft 상태일 떄는 New 태그 추가 안함 -->
+        <!-- draft 상태일 때는 New 태그 추가 안함 -->
         {% if page.draft == true %}
         <span class="catalogue-tag">
             Coming Soon

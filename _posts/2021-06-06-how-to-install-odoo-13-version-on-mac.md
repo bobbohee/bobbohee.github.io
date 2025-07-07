@@ -17,7 +17,7 @@ banner: '/assets/images/2021-06-06-how-to-install-odoo-13-version-on-mac/banner.
 <br>
 
 회사에서 Odoo를 사용해 개발을 하게 되면서 처음 Odoo를 접하게 되었다.
-Odoo는 사용자가 그리 많지 않기 떄문에 딱 맞는 설치 가이드를 찾기 어렵다. 
+Odoo는 사용자가 그리 많지 않기 때문에 딱 맞는 설치 가이드를 찾기 어렵다. 
 때문에 나 또한 처음 설치 과정에서 많은 어려움을 겪었고, 🥲&nbsp; 블로그에 정리해 놓으면 좋겠다는 생각이 들어 정리하게 되었다. 
 
 # 홈브루(Homebrew)
