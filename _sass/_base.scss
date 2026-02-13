@@ -1,10 +1,12 @@
 * {
   @include box-sizing;
   line-height: 1.5;
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease, fill 0.3s ease;
 }
 
 html, body {
-  color: $grey-0;
+  color: var(--text-color);
+  background-color: var(--bg-color);
   margin: 0;
   padding: 0;
 }
@@ -32,13 +34,13 @@ h2 {
 }
 
 a {
-  color: $grey-0;
+  color: var(--text-color);
   text-decoration: none;
 }
 
 blockquote {
-  border-left: .25rem solid $grey-2;
-  color: $grey-1;
+  border-left: .25rem solid var(--border-color);
+  color: var(--text-secondary);
   margin: .8rem 0 1rem 0;
   padding: .5rem 1rem;
 

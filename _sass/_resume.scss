@@ -25,7 +25,7 @@ div.resume-info {
   .workplace {
     width: 100%;
     padding: 30px 0;
-    border-top: 1px solid rgba(0, 0, 0, .07);
+    border-top: 1px solid var(--border-light);
 
     .workplace-name {
       font-family: $san-serif;
@@ -44,7 +44,7 @@ div.resume-info {
       display: inline-block;
 
       p.work-sub-info {
-        color: $default-tint;
+        color: var(--text-muted);
         font-size: 16px;
         font-family: $source;
         font-weight: 400;
@@ -58,13 +58,13 @@ div.resume-info {
   }
 
   .workplace:last-child {
-    border-bottom: 1px solid rgba(0, 0, 0, .07);
+    border-bottom: 1px solid var(--border-light);
   }
 
   a {
     .view-all-projects {
       display: inline-block;
-      color: $default-tint;
+      color: var(--text-muted);
       font-size: 18px;
       font-family: $source;
       font-weight: 600;
@@ -72,7 +72,7 @@ div.resume-info {
 
       svg {
         width: 20px;
-        fill: $default-tint;
+        fill: var(--text-muted);
         vertical-align: middle;
         margin-left: 6px;
       }
@@ -98,7 +98,7 @@ section.skill {
     font-family: $source;
     padding: 4px 14px;
     border-radius: 100px;
-    border: solid 1px $grey-2;
+    border: solid 1px var(--border-color);
     font-size: 16px;
     margin: 0 8px 14px 0;
   }

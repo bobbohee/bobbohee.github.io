@@ -1,7 +1,26 @@
 window.onload = function() {
 
+    // 다크 모드 토글
+    const toggle = document.querySelector('.theme-toggle');
+    if (toggle) {
+      const icon = toggle.querySelector('i');
+
+      // 현재 상태에 맞게 아이콘 설정
+      if (document.body.classList.contains('dark')) {
+        icon.classList.replace('fa-moon', 'fa-sun');
+      }
+
+      toggle.addEventListener('click', function() {
+        document.body.classList.toggle('dark');
+        const isDark = document.body.classList.contains('dark');
+        icon.classList.replace(isDark ? 'fa-moon' : 'fa-sun', isDark ? 'fa-sun' : 'fa-moon');
+        localStorage.setItem('theme', isDark ? 'dark' : 'light');
+      });
+    }
+
     const screenWidth = window.screen.width;
     const post = document.querySelector('.post');
+    if (!post) return;
 
     /* image padding */
     for (const image of post.querySelectorAll('img.shadow')) {

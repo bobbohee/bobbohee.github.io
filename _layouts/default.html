@@ -4,6 +4,11 @@
 {% include head.html %}
 
 <body>
+<script>
+  if (localStorage.getItem('theme') === 'dark') {
+    document.body.classList.add('dark');
+  }
+</script>
 
 {% include navigation.html %}
 

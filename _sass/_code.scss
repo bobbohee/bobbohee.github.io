@@ -3,7 +3,7 @@ pre, code {
 }
 
 code {
-  background-color: #f5f5f5;
+  background-color: var(--bg-code);
   border-radius: 3px;
   color: $primary;
   font-size: 85%;
@@ -15,7 +15,7 @@ pre {
 }
 
 pre code {
-  background-color: #fbfbfb;
+  background-color: var(--bg-code-block);
   color: inherit;
   font-size: 85%;
   padding: 0;
@@ -29,8 +29,8 @@ div.highlight {
   margin: 0 0 1rem;
 
   pre.highlight {
-    background-color: #fbfbfb;
-    border: 1px solid #ececec;
+    background-color: var(--bg-code-block);
+    border: 1px solid var(--border-code);
     border-radius: 3px;
     line-height: 1.4;
     padding: 1.2rem;
@@ -38,7 +38,7 @@ div.highlight {
   }
 
   .lineno {
-    color: $default-tint;
+    color: var(--text-muted);
     display: inline-block; // Ensures the null space also isn't selectable
     padding: 0 .75rem 0 .25rem;
     // Make sure numbers aren't selectable
