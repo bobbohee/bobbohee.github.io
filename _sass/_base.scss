@@ -84,3 +84,50 @@ td {
   color: #FFF;
   text-shadow: none;
 }
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  width: 42px;
+  height: 42px;
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  background-color: var(--bg-color);
+  color: var(--text-secondary);
+  font-size: 16px;
+  cursor: pointer;
+  outline: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, color 0.2s ease, border-color 0.3s ease, background-color 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+
+  &.visible {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  &:focus,
+  &:active {
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    box-shadow: none;
+  }
+
+  &:hover {
+    color: $primary;
+    border-color: $primary;
+  }
+
+  @media (max-width: $break-small) {
+    bottom: 20px;
+    right: 20px;
+    width: 38px;
+    height: 38px;
+    font-size: 14px;
+  }
+}

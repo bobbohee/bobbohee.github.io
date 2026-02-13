@@ -18,6 +18,22 @@ window.onload = function() {
       });
     }
 
+    /* Scroll to top */
+    const scrollBtn = document.querySelector('.scroll-to-top');
+    if (scrollBtn) {
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > 300) {
+                scrollBtn.classList.add('visible');
+            } else {
+                scrollBtn.classList.remove('visible');
+            }
+        });
+
+        scrollBtn.addEventListener('click', function() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    }
+
     const screenWidth = window.screen.width;
     const post = document.querySelector('.post');
     if (!post) return;
@@ -52,6 +68,46 @@ window.onload = function() {
                 const widthPercent = (width / totalWidth) * 100;
                 image.parentElement.style.width = `${widthPercent}%`;
             }
+        }
+    }
+
+    /* TOC (Table of Contents) */
+    const tocNav = document.querySelector('.toc');
+    if (tocNav) {
+        const tocList = tocNav.querySelector('.toc-list');
+        const postInfo = post.querySelector('.post-info');
+        const headings = Array.from(post.querySelectorAll('h1, h2, h3')).filter(function(h) {
+            return !postInfo || !postInfo.contains(h);
+        });
+
+        if (headings.length < 2) {
+            tocNav.style.display = 'none';
+        } else {
+            headings.forEach(function(heading) {
+                if (!heading.id) {
+                    heading.id = heading.textContent
+                        .trim()
+                        .toLowerCase()
+                        .replace(/[^\w\s가-힣ㄱ-ㅎㅏ-ㅣ-]/g, '')
+                        .replace(/\s+/g, '-');
+                }
+
+                var level = parseInt(heading.tagName.charAt(1));
+                var li = document.createElement('li');
+                li.className = 'toc-level-' + level;
+
+                var a = document.createElement('a');
+                a.href = '#' + heading.id;
+                a.textContent = heading.textContent.trim();
+                a.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    heading.scrollIntoView({ behavior: 'smooth' });
+                    history.replaceState(null, null, '#' + heading.id);
+                });
+
+                li.appendChild(a);
+                tocList.appendChild(li);
+            });
         }
     }
 

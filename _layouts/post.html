@@ -49,6 +49,14 @@ layout: default
         </div>
         {% else %}
         <!-- 큐레이션 영역 -->
+        {% unless page.toc == false %}
+        <nav class="toc" aria-label="목차">
+            <details open>
+                <summary>목차</summary>
+                <ol class="toc-list"></ol>
+            </details>
+        </nav>
+        {% endunless %}
         {{ content }}
         {% endif %}
     </div>
