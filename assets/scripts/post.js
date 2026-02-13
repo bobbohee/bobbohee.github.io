@@ -34,6 +34,28 @@ window.onload = function() {
         });
     }
 
+    // 카테고리 필터
+    const categoryBtns = document.querySelectorAll('.category-btn');
+    if (categoryBtns.length > 0) {
+        const items = document.querySelectorAll('.catalogue-item');
+
+        categoryBtns.forEach(function(btn) {
+            btn.addEventListener('click', function() {
+                categoryBtns.forEach(function(b) { b.classList.remove('active'); });
+                btn.classList.add('active');
+
+                var category = btn.getAttribute('data-category');
+                items.forEach(function(item) {
+                    if (category === 'all' || item.getAttribute('data-category') === category) {
+                        item.style.display = '';
+                    } else {
+                        item.style.display = 'none';
+                    }
+                });
+            });
+        });
+    }
+
     const screenWidth = window.screen.width;
     const post = document.querySelector('.post');
     if (!post) return;

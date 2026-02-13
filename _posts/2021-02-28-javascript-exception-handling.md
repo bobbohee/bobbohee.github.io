@@ -1,6 +1,6 @@
 ---
 layout: post
-category: JavaScript
+category: Development
 title: '자바스크립트 예외(Exception) 처리하기'
 subtitle: '자바스크립트 예외 처리하기 - 1편 🚨'
 banner: '/assets/images/2021-02-28-javascript-exception-handling/banner.jpeg'

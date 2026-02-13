@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Review
+category: Etc
 title: '애플 매직 트랙패드2 리뷰'
 subtitle: '애플 매직 트랙패드2 한 달 실사용 후기 🐥'
 banner: '/assets/images/2021-04-04-review-apple-magic-trackpad2/banner.jpeg'

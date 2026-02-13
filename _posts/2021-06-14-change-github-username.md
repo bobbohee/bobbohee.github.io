@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Github
+category: Development
 title: 'Github에 username 변경하기'
 subtitle: '나만의 개발 닉네임 사용하기 ✨'
 banner: '/assets/images/2021-06-14-change-github-username/banner.jpeg'

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: JavaScript
+category: Development
 title: '자바스크립트(JavaScript)란?'
 subtitle: '자바스크립트 기초 탄탄히 다지기 - 1편 ️🌱'
 banner: '/assets/images/2021-05-15-what-is-javascript/banner.jpeg'

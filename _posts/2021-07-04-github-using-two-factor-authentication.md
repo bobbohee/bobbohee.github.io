@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Github
+category: Development
 title: 'Github에서 2단계 인증(Two-Factor Authentication) 사용하기'
 subtitle: '2단계 인증을 사용해 계정 보안 강화하기 🔒'
 banner: '/assets/images/2021-07-04-github-using-two-factor-authentication/banner.jpeg'

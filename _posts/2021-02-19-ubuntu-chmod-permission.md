@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Ubuntu
+category: Development
 title: '우분투 chmod로 파일 권한(Permission) 변경하기'
 subtitle: '암호 같은 권한 -rwxr-xr-x 알아보기 🔍'
 banner: '/assets/images/2021-02-19-ubuntu-chmod-permission/banner.jpeg'

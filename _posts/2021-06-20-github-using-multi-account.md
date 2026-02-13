@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Github
+category: Development
 title: '하나의 컴퓨터에서 여러 Github 계정 사용하기'
 subtitle: 'Github에 SSH 키를 등록하고 사용하기 🔑'
 banner: '/assets/images/2021-06-20-github-using-multi-account/banner.jpeg'

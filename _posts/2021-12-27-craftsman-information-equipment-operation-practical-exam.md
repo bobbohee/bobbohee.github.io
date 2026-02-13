@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Certification
+category: Development
 title: '2021년 4회 정보기기운용기능사 실기 후기'
 subtitle: '정보기기운용기능사 실기 빠르게 공부하기 📖'
 ---
