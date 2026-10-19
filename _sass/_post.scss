@@ -529,5 +529,10 @@ video {
 
   @media (min-width: 768px) {
     flex-direction: row;
+
+    .image-item {
+      flex: var(--ratio, 1) 1 0;
+      min-width: 0;
+    }
   }
 }
